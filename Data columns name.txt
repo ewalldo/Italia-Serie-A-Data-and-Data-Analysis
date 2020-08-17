@@ -117,3 +117,34 @@ K_Ply_Nbr_T2           = Match key player shirt number from team 2
 Odd_T1                 = Bet365 home win odds
 Odd_D                  = Bet365 draw odds
 Odd_T2                 = Bet365 away win odds
+
+
+### 2019-2020 Player data - Goalkeepers
+M   = Minutes played
+GC  = Goals conceded
+OG  = Owngoal
+S   = Saves
+STP = Saves on set pieces
+SF  = Saves on free kick
+FYC = First yellow card
+SYC = Second yellow card
+RC  = Red card
+
+
+### 2019-2020 Player data - Non-goalkeepers
+M   = Minutes played
+G   = Goals
+OG  = Owngoal
+AT  = Attempts on target
+BP  = Balls played
+SC  = Scoring chances
+AS  = Assists
+P   = Passes completed
+FC  = Fouls commited
+FS  = Fouls suffered
+R   = Recoveries＊
+KP  = Key passes
+FYC = First yellow card
+SYC = Second yellow card
+RC  = Red card
+＊clears + tackles successful + aerial duels won + ground duels won + fifty-fifty duels wons
