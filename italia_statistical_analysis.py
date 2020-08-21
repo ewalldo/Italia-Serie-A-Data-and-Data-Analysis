@@ -55,3 +55,48 @@ if p > alpha:
 	print("The means are equal")
 else:
 	print("The means are not equal")
+
+
+
+
+
+#Statistical t-test for the home/ away wins for individual teams
+teams = sorted(match_data["Team_1"].unique())
+alpha = 0.05
+
+for i in range(len(teams)):
+	team_name = teams[i]
+	print("### " + team_name + " ###")
+
+	results = match_data.loc[match_data["Team_1"] == team_name]["FR"]
+	home_win = np.array(results.replace(to_replace=['H', 'A', 'D'], value=[1, 0, 0], inplace=False))
+	not_win = np.array(results.replace(to_replace=['H', 'A', 'D'], value=[0, 1, 1], inplace=False))
+
+	t_stat, p = ttest_ind(home_win, not_win)
+	# print(t_stat)
+	# print(p)
+	print(sum(home_win))
+
+	if p > alpha:
+		print("The means are equal")
+	else:
+		print("The means are not equal")
+
+
+
+
+	results = match_data.loc[match_data["Team_2"] == team_name]["FR"]
+	away_win = np.array(results.replace(to_replace=['H', 'A', 'D'], value=[0, 1, 0], inplace=False))
+	not_win = np.array(results.replace(to_replace=['H', 'A', 'D'], value=[1, 0, 1], inplace=False))
+
+	t_stat, p = ttest_ind(away_win, not_win)
+	# print(t_stat)
+	# print(p)
+	print(sum(away_win))
+
+	if p > alpha:
+		print("The means are equal")
+	else:
+		print("The means are not equal")
+
+	print("######")

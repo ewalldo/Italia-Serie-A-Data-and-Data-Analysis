@@ -6,7 +6,7 @@ Player data for the 2019-2020 is already available
 
 (soon) TODO: Match data for previous seasons  
 (soon) TODO: Player data for previous seasons  
-(soon) TODO: Statistical analysis  
+(soon) TODO: More statistical analysis  
 
 
 ## 1 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
@@ -78,7 +78,138 @@ True
 As we can see, our p-value is higher than &alpha;, so that means that we cannot reject the null hypothesis. Therefore, **at the 95% confidence level, there is NO statisticaly difference between the average win-rate of the home teams against the away teams for the 2019-2020 season.**  
 Wait!? How can that be possible!? We said at the beggining that home-teams have an advantage against away-teams, why the statistical test says that there is no statisticaly difference between the two?  
 Well, we believe that there is a simple answer to that, amount of data. We analyzed only one season (380 matches), and that number is not enough to notice a difference between home and away win, that 21 more wins is not big enough. If we add together other seasons, that difference will be bigger, and if we redo the Student's t-test maybe we will notice a difference in favour of the home teams (will do that when I upload previous seasons data).  
-In conclusion: By analyzing one season only, more specifically 2019-2020 season, we can't say that home teams has more chances to win match than the away team.
+In conclusion: By analyzing one season only, more specifically 2019-2020 season, we can't say that home teams has more chances to win match than the away team.  
+
+### 1.1 - Individual teams home-away advantage  
+That is the result by checking all matches, but how about individual teams? We will apply the same statistical analysis to every team to check who performed better at home and who performed better playing away. Before we ignored the matches who ended up on a draw, but here we won't do that, to check for home advantage we will compare the number of home wins against the number of non home wins (away wins + draw). To check for teams who played better away, we do the same, number of away wins against number of non away wins (home wins + draw). Even though, draw a match in soccer is better than losing it, we are giving the same *weight* to both, we are trying to measure if a team wins more when playing at home or away, so even though a drawing is better than losing, it is still a failure to win a match. (code for this analysis is on the italia_statistical_analysis.py)  
+#### <img src="/imgs/clubs logo/atalanta.png" width="40">Atalanta  
+Home wins: 12/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Atalanta playing at home for the 2019-2020 season.**  
+Away wins: 11/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Atalanta playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/bologna.png" width="40">Bologna  
+Home wins: 5/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Bologna playing at home for the 2019-2020 season.**  
+Away wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Bologna playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/brescia.png" width="40">Brescia  
+Home wins: 3/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Brescia playing at home for the 2019-2020 season.**  
+Away wins: 3/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Brescia playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/cagliari.png" width="40">Cagliari  
+Home wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Cagliari playing at home for the 2019-2020 season.**  
+Away wins: 4/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Cagliari playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/fiorentina.png" width="40">Fiorentina  
+Home wins: 5/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Fiorentina playing at home for the 2019-2020 season.**  
+Away wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Fiorentina playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/genoa.png" width="40">Genoa  
+Home wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Genoa playing at home for the 2019-2020 season.**  
+Away wins: 3/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Genoa playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/hellas verona.png" width="40">Hellas Verona  
+Home wins: 9/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Hellas Verona playing at home for the 2019-2020 season.**  
+Away wins: 3/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Hellas Verona playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/inter.png" width="40">Inter  
+Home wins: 11/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Inter playing at home for the 2019-2020 season.**  
+Away wins: 13/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Inter playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/juventus.png" width="40">Juventus  
+Home wins: 16/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Juventus playing at home for the 2019-2020 season.**  
+Away wins: 10/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Juventus playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/lazio.png" width="40">Lazio  
+Home wins: 14/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lazio playing at home for the 2019-2020 season.**  
+Away wins: 10/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Lazio playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/lecce.png" width="40">Lecce  
+Home wins: 4/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lecce playing at home for the 2019-2020 season.**  
+Away wins: 5/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lecce playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/milan.png" width="40">Milan  
+Home wins: 9/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Milan playing at home for the 2019-2020 season.**  
+Away wins: 10/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Milan playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/napoli.png" width="40">Napoli  
+Home wins: 10/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Napoli playing at home for the 2019-2020 season.**  
+Away wins: 8/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Napoli playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/parma.png" width="40">Parma  
+Home wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Parma playing at home for the 2019-2020 season.**  
+Away wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Parma playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/roma.png" width="40">Roma  
+Home wins: 10/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Roma playing at home for the 2019-2020 season.**  
+Away wins: 11/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Roma playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/sampdoria.png" width="40">Sampdoria  
+Home wins: 6/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sampdoria playing at home for the 2019-2020 season.**  
+Away wins: 6/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sampdoria playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/sassuolo.png" width="40">Sassuolo  
+Home wins: 8/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Sassuolo playing at home for the 2019-2020 season.**  
+Away wins: 6/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sassuolo playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/spal.png" width="40">Spal  
+Home wins: 2/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Spal playing at home for the 2019-2020 season.**  
+Away wins: 3/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Spal playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/torino.png" width="40">Torino  
+Home wins: 7/19  
+**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Torino playing at home for the 2019-2020 season.**  
+Away wins: 4/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Torino playing away for the 2019-2020 season.**  
+
+#### <img src="/imgs/clubs logo/udinese.png" width="40">Udinese  
+Home wins: 6/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Udinese playing at home for the 2019-2020 season.**  
+Away wins: 6/19  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of Udinese playing away for the 2019-2020 season.**  
+
+We summarize the result in the following table:  
+| | **Home** | **Away** |
+| --- | --- | --- |
+| **Above average** | <img src="/imgs/clubs logo/juventus.png" width="30"><img src="/imgs/clubs logo/lazio.png" width="30"> | <img src="/imgs/clubs logo/inter.png" width="30"> |
+| **Below average** | <img src="/imgs/clubs logo/bologna.png" width="30"><img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/fiorentina.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> | <img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/cagliari.png" width="30"><img src="/imgs/clubs logo/genoa.png" width="30"><img src="/imgs/clubs logo/hellas verona.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/sassuolo.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/torino.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> |  
+
+As we can see from the table, Juventus and Lazio were the only teams who statisticaly achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
+
 
 #### Notes ####
 All the data was obtained by using a python script on the official match reports available at the "Lega Serie A" official website.  
