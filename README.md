@@ -218,7 +218,8 @@ Penalties are important, no doubt about that, it can change the game in just one
 That was the result in the long run, but what about one season? One season is not long enough to be considered a long run, so if we analyze it, we may find some differences in the final positions of the clubs at the final table. And that is what we are going to try to answer here, **how much different the Italia Serie A 2019-2020 table would look like if there was no penalties awarded at all?**  
 
 First thing is to check is how many penalties were awarded and in how many games. From the 380 matches of the 2019-2020 season, 147 (38.7%) had at least one penalty awarded against 233 (61.3%) without (chart on the left). In total, 187 penalties were awarded this season, 152 (81.3%) went in while the remaining 35 (18.7%) didn't found the desired target (chart in the middle). From the 1154 goals that happened that season, 152 (13.2%) came from the penalty spot, while the remaining 1002 (86.8%) were by normal play, free kicks and such (chart on the right).  
-<img src="/imgs/match_penalty_pie.png" width="200"><img src="/imgs/penalty_accuracy_pie.png" width="200"><img src="/imgs/total_goals_pie.png" width="200">  
+
+<img src="/imgs/match_penalty_pie.png" width="380"><img src="/imgs/penalty_accuracy_pie.png" width="260"><img src="/imgs/total_goals_pie.png" width="290">  
 
 Second thing, which team received more penalties, and how many went in. The result is summarized at the table below.  
 | | **Team** | **Penalties Awarded** | **Scored** | **Missed** | **%** |
