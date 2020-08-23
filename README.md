@@ -184,11 +184,11 @@ Home wins: 8/19
 Away wins: 6/19  
 **At the 95% confidence level, there is statisticaly difference between the average win-rate of Sassuolo playing away for the 2019-2020 season.**  
 
-#### <img src="/imgs/clubs logo/spal.png" width="40">Spal  
+#### <img src="/imgs/clubs logo/spal.png" width="40">SPAL  
 Home wins: 2/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Spal playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of SPAL playing at home for the 2019-2020 season.**  
 Away wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Spal playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statisticaly difference between the average win-rate of SPAL playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/torino.png" width="40">Torino  
 Home wins: 7/19  
@@ -209,6 +209,102 @@ We summarize the result in the following table:
 | **Below average** | <img src="/imgs/clubs logo/bologna.png" width="30"><img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/fiorentina.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> | <img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/cagliari.png" width="30"><img src="/imgs/clubs logo/genoa.png" width="30"><img src="/imgs/clubs logo/hellas verona.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/sassuolo.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/torino.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> |  
 
 As we can see from the table, Juventus and Lazio were the only teams who statisticaly achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
+
+
+## 2 - Does penalties matter?  
+Penalties, the most controversial topic in the world of soccer. After the weekend round, penalties are normally the most discussed topic in TV sports programs or between a group of friends. "It was clearly a foul" or "The player faked, the other guy didn't even touched him", "The foul was outside the penalty area" or "The foul was inside the penalty area", "That handball was clearly a penalty, it would be a goal if wasn't for it" or "That handball was not on purpose, the arm was against his body, he couldn't do anything" and so many statements like this are made to justify or not the award of a penalty. It's understandable why this is a hot topic, compared to other sports like basketball, volleyball and tennis, soccer is a sport where teams score just a few "points" every match (having no "points" scored at all being also common), so having a type of foul that allow a team to score a point easily is a very big deal.  
+The introduction of VAR (Video assistent referee) helped a lot in this regard, making it easy for referees, now they don't need to decide a game-changing situation like a penalty in the heat of the moment, they can check many times a replay, check from different angles and then reach a decision (a decision that many fans around the world will still argue against).  
+Penalties are important, no doubt about that, it can change the game in just one second. It can bring a team back to life after spending most of the match only defending, it can save the favorite team who spent the whole game "hammering down" the smaller one and didn't got any goal at all. Also have a psychological effect on the players. It's important, but does it affect results in the long run? Dr. Tunde Buraimo [answered this question in the book "Soccernomics"](https://www.goodreads.com/book/show/6617185-soccernomics) by analyzing 1520 Premier League matches, from the 2002/2003 season until the 2005/2006 one. He compared matches where penalties were awarded against the ones where there was no penalty, and checked if there was a difference between the average of home wins, away wins and draws of both groups. In the result, there was an increase of almost 3% of home wins when there was a penalty involved in the match, but at the same time, analysis showed that this difference is not statistically significant. In conclusion, penalties does not change the outcome of matches in the long run.  
+That was the result in the long run, but what about one season? One season is not long enough to be considered a long run, so if we analyze it, we may find some differences in the final positions of the clubs at the final table. And that is what we are going to try to answer here, **how much different the Italia Serie A 2019-2020 table would look like if there was no penalties awarded at all?**  
+
+First thing is to check is how many penalties were awarded and in how many games. From the 380 matches of the 2019-2020 season, 147 (38.7%) had at least one penalty awarded against 233 (61.3%) without (chart on the left). In total, 187 penalties were awarded this season, 152 (81.3%) went in while the remaining 35 (18.7%) didn't found the desired target (chart in the middle). From the 1154 goals that happened that season, 152 (13.2%) came from the penalty spot, while the remaining 1002 (86.8%) were by normal play, free kicks and such (chart on the right).  
+<img src="/imgs/match_penalty_pie.png" width="200"><img src="/imgs/penalty_accuracy_pie.png" width="200"><img src="/imgs/total_goals_pie.png" width="200">  
+
+Second thing, which team received more penalties, and how many went in. The result is summarized at the table below.  
+| | **Team** | **Penalties Awarded** | **Scored** | **Missed** | **%** |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| *1* | <img src="/imgs/clubs logo/lazio.png" width="25"> Lazio | 18 | 15 | 3 | 83.3% |
+| *2* | <img src="/imgs/clubs logo/genoa.png" width="25"> Genoa | 16 | 11 | 5 | 68.8% |
+| *3* | <img src="/imgs/clubs logo/lecce.png" width="25"> Lecce | 15 | 11 | 4 | 73.3% |
+| *4* | <img src="/imgs/clubs logo/juventus.png" width="25"> Juventus | 14 | 13 | 1 | 92.9% |
+| * | <img src="/imgs/clubs logo/roma.png" width="25"> Roma | 14 | 12 | 2 | 85.7% |
+| *6* | <img src="/imgs/clubs logo/sampdoria.png" width="25"> Sampdoria | 12 | 9 | 3 | 75.0% |
+| *7* | <img src="/imgs/clubs logo/inter.png" width="25"> Inter | 11 | 10 | 1 | 90.9% |
+| * | <img src="/imgs/clubs logo/fiorentina.png" width="25"> Fiorentina | 11 | 9 | 2 | 81.8% |
+| *9* | <img src="/imgs/clubs logo/atalanta.png" width="25"> Atalanta | 10 | 7 | 3 | 70.0% |
+| *10* | <img src="/imgs/clubs logo/hellas verona.png" width="25"> Hellas Verona | 9 | 8 | 1 | 88.9% |
+| * | <img src="/imgs/clubs logo/milan.png" width="25"> Milan | 9 | 8 | 1 | 88.9% |
+| *12* | <img src="/imgs/clubs logo/torino.png" width="25"> Torino | 8 | 7 | 1 | 87.5% |
+| *13* | <img src="/imgs/clubs logo/spal.png" width="25"> SPAL | 7 | 5 | 2 | 71.4% |
+| *14* | <img src="/imgs/clubs logo/bologna.png" width="25"> Bologna | 6 | 5 | 1 | 83.3% |
+| * | <img src="/imgs/clubs logo/sassuolo.png" width="25"> Sassuolo | 6 | 5 | 1 | 83.3% |
+| * | <img src="/imgs/clubs logo/cagliari.png" width="25"> Cagliari | 6 | 4 | 2 | 66.7% |
+| * | <img src="/imgs/clubs logo/parma.png" width="25"> Parma | 6 | 4 | 2 | 66.7% |
+| *18* | <img src="/imgs/clubs logo/napoli.png" width="25"> Napoli | 5 | 5 | 0 | 100.0% |
+| *19* | <img src="/imgs/clubs logo/brescia.png" width="25"> Brescia | 4 | 4 | 0 | 100.0% |
+| *20* | <img src="/imgs/clubs logo/udinese.png" width="25"> Udinese | 0 | -- | -- | ----- |  
+
+As we can see from the table, some teams are awarded more penalties than the others (we will try to answer why in a future analysis), the top place being occupied by Lazio, with the average of almost 1 penalty every two matches, while Udinese wasn't awarded any penalty at all during the 38 matches of the season.  
+
+Now the last and most important one, if we remove these penalties, how much different the table would look like. To do that we subtract every penalty goal from matches and recalculate the number of points obtained. For example, if a match end it up 1x0 with the goal coming from a penalty kick, we will deduce that goal, becoming now 0x0, and recalculate the points. Team 1 will receive 1 instead of 3, while team 2 will receive 1 instead of 0. We do that for every match with at least one pnalty. We show both the original table (on the left) and the modified one (on the right).  
+
+<table>
+<tr><th> Original table </th><th> Modified table </th></tr>
+<tr><td>
+
+| | **Team** | **P** | **W** | **D** | **L** |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| *1* | <img src="/imgs/clubs logo/juventus.png" width="25"> Juventus | 83 | 26 | 5 | 7 |
+| *2* | <img src="/imgs/clubs logo/inter.png" width="25"> Inter | 82 | 24 | 10 | 4 |
+| *3* | <img src="/imgs/clubs logo/atalanta.png" width="25"> Atalanta | 78 | 23 | 9 | 6 |
+| *4* | <img src="/imgs/clubs logo/lazio.png" width="25"> Lazio | 78 | 24 | 6 | 8 |
+| *5* | <img src="/imgs/clubs logo/roma.png" width="25"> Roma | 70 | 21 | 7 | 10 |
+| *6* | <img src="/imgs/clubs logo/milan.png" width="25"> Milan | 66 | 19 | 9 | 10 |
+| *7* | <img src="/imgs/clubs logo/napoli.png" width="25"> Napoli | 62 | 18 | 8 | 12 |
+| *8* | <img src="/imgs/clubs logo/sassuolo.png" width="25"> Sassuolo | 51 | 14 | 9 | 15 |
+| *9* | <img src="/imgs/clubs logo/hellas verona.png" width="25"> Hellas Verona | 49 | 12 | 13 | 13 |
+| *10* | <img src="/imgs/clubs logo/fiorentina.png" width="25"> Fiorentina | 49 | 12 | 13 | 13 |
+| *11* | <img src="/imgs/clubs logo/parma.png" width="25"> Parma | 49 | 14 | 7 | 17 |
+| *12* | <img src="/imgs/clubs logo/bologna.png" width="25"> Bologna | 47 | 12 | 11 | 15 |
+| *13* | <img src="/imgs/clubs logo/udinese.png" width="25"> Udinese | 45 | 12 | 9 | 17 |
+| *14* | <img src="/imgs/clubs logo/cagliari.png" width="25"> Cagliari | 45 | 11 | 12 | 15 |
+| *15* | <img src="/imgs/clubs logo/sampdoria.png" width="25"> Sampdoria | 42 | 12 | 6 | 20 |
+| *16* | <img src="/imgs/clubs logo/torino.png" width="25"> Torino | 40 | 11 | 7 | 20 |
+| *17* | <img src="/imgs/clubs logo/genoa.png" width="25"> Genoa | 39 | 10 | 9 | 19 |
+| *18* | <img src="/imgs/clubs logo/lecce.png" width="25"> Lecce | 35 | 9 | 8 | 21 |
+| *19* | <img src="/imgs/clubs logo/brescia.png" width="25"> Brescia | 25 | 6 | 7 | 25 |
+| *20* | <img src="/imgs/clubs logo/spal.png" width="25"> SPAL | 20 | 5 | 5 | 28 |
+
+</td><td>
+
+| | **Team** | **P** | **W** | **D** | **L** | **P diff** | **Pos diff** | **Diff outcome** |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| *1* | <img src="/imgs/clubs logo/atalanta.png" width="25"> Atalanta | 80 | 24 | 8 | 6 | +2 | +2 | 5 |
+| *2* | <img src="/imgs/clubs logo/juventus.png" width="25"> Juventus | 78 | 24 | 6 | 8 | -5 | -1 | 5 |
+| *3* | <img src="/imgs/clubs logo/inter.png" width="25"> Inter | 75 | 21 | 12 | 5 | -7 | -1 | 5 |
+| *4* | <img src="/imgs/clubs logo/lazio.png" width="25"> Lazio | 73 | 22 | 7 | 9 | -5 | -- | 5 |
+| *5* | <img src="/imgs/clubs logo/roma.png" width="25"> Roma | 66 | 20 | 6 | 12 | -4 | -- | 8 |
+| *6* | <img src="/imgs/clubs logo/napoli.png" width="25"> Napoli | 64 | 18 | 10 | 10 | +2 | +1 | 4 |
+| *7* | <img src="/imgs/clubs logo/milan.png" width="25"> Milan | 63 | 18 | 9 | 11 | -3 | -1 | 4 |
+| *8* | <img src="/imgs/clubs logo/sassuolo.png" width="25"> Sassuolo | 55 | 15 | 10 | 13 | +4 | -- | 4 |
+| *9* | <img src="/imgs/clubs logo/fiorentina.png" width="25"> Fiorentina | 52 | 13 | 13 | 12 | +3 | +1 | 5 |
+| *10* | <img src="/imgs/clubs logo/parma.png" width="25"> Parma | 50 | 13 | 11 | 14 | +1 | +1 | 4 |
+| *11* | <img src="/imgs/clubs logo/hellas verona.png" width="25"> Hellas Verona | 48 | 10 | 18 | 10 | -1 | -2 | 11 |
+| *12* | <img src="/imgs/clubs logo/udinese.png" width="25"> Udinese | 47 | 12 | 11 | 15 | +2 | +1 | 2 |
+| *13* | <img src="/imgs/clubs logo/cagliari.png" width="25"> Cagliari | 46 | 11 | 13 | 14 | +1 | +1 | 5 |
+| *14* | <img src="/imgs/clubs logo/torino.png" width="25"> Torino | 45 | 13 | 6 | 21 | +5 | +2 | 3 |
+| *15* | <img src="/imgs/clubs logo/bologna.png" width="25"> Bologna | 45 | 11 | 12 | 15 | -2 | -3 | 3 |
+| *16* | <img src="/imgs/clubs logo/sampdoria.png" width="25"> Sampdoria | 40 | 10 | 10 | 18 | -2 | -1 | 6 |
+| *17* | <img src="/imgs/clubs logo/genoa.png" width="25"> Genoa | 36 | 9 | 9 | 20 | -3 | -- | 10 |
+| *18* | <img src="/imgs/clubs logo/lecce.png" width="25"> Lecce | 32 | 7 | 11 | 20 | -3 | -- | 5 |
+| *19* | <img src="/imgs/clubs logo/brescia.png" width="25"> Brescia | 27 | 7 | 6 | 25 | +2 | -- | 7 |
+| *20* | <img src="/imgs/clubs logo/spal.png" width="25"> SPAL | 20 | 4 | 8 | 26 | -- | -- | 5 |
+
+</td></tr> </table>  
+
+From the 147 matches with a least one penalty, 53 would change the final outcome if we deduct the goal(s) from the penalty spot. The first thing to notice in the modified league table is the new champion. Thanks to the 2 extra points, Atalanta would rise to the top, while Juventus and Inter would drop off one position each thanks to the loss of 5 and 7 points respectively. But besides that, there is not much else to notice in the table, mostly teams would drop/go up just one position while the bottom part would remain unchanged. Another thing to notice is the last column, how many matches would have a different outcome for each team. The average of all is around 5 each, with Udinese only having 2 while for Hellas Verona 11 matches would have end it up differently. Even though many matches would have a different outcome, the points difference is not that big, with a average of ±3 points for each team, meaning just one more/less win.  
+
+Going back to the title of this section "does penalties matter?". Well, in that case the answer will depends on who you ask, some people will say "of course, it would have a different champion, that changes everything", while others will say "it does not matter much, many teams would have the same final place and the number of points obtained for each wouldn't be that much different also". So in the end, the answer for this question is just like penalties, controversial.
 
 
 #### Notes ####
