@@ -7,6 +7,7 @@ Match data available:
 
 Player data available:  
 * 2019/2020 season
+* 2018/2019 season
 
 (soon) TODO: Match data for previous seasons  
 (soon) TODO: Player data for previous seasons  
