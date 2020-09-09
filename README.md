@@ -8,6 +8,7 @@ Match data available:
 Player data available:  
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2019-2020)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2018-2019)
+* [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2017-2018)
 
 (soon) TODO: Match data for previous seasons  
 (soon) TODO: Player data for previous seasons  

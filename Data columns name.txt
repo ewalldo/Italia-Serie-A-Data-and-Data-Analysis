@@ -1,6 +1,6 @@
 Notes about how to read the data
 
-### 2019-2020 Match data
+### Match data
 Year                   = Match year
 Matchday               = Matchday number
 Team_1                 = Team 1 name
@@ -121,7 +121,7 @@ Odd_D                  = Bet365 draw odds
 Odd_T2                 = Bet365 away win odds
 
 
-### 2019-2020 Player data - Goalkeepers
+### Player data - Goalkeepers
 M   = Minutes played
 GC  = Goals conceded
 OG  = Owngoal
@@ -133,21 +133,23 @@ SYC = Second yellow card
 RC  = Red card
 
 
-### 2019-2020 Player data - Non-goalkeepers
-M   = Minutes played
-G   = Goals
-OG  = Owngoal
-AT  = Attempts on target
-BP  = Balls played
-SC  = Scoring chances
-AS  = Assists
-P   = Passes completed
-FC  = Fouls commited
-FS  = Fouls suffered
-R   = Recoveries＊
-KP  = Key passes ＊(2019-2020 season only)
-LB  = Lost balls ＊(2018-2019 season only)
-FYC = First yellow card
-SYC = Second yellow card
-RC  = Red card
+### Player data - Non-goalkeepers
+M     = Minutes played
+G     = Goals
+OG    = Owngoal
+AT    = Attempts on target
+AToff = Attempts off target (2017-2018 season only)
+BP    = Balls played
+SC    = Scoring chances
+AS    = Assists
+CR    = Crosses (2017-2018 season only)
+P     = Passes completed
+FC    = Fouls commited
+FS    = Fouls suffered
+R     = Recoveries＊
+KP    = Key passes (2019-2020 season only)
+LB    = Lost balls (2017-2018 and 2018-2019 season only)
+FYC   = First yellow card
+SYC   = Second yellow card
+RC    = Red card
 ＊clears + tackles successful + aerial duels won + ground duels won + fifty-fifty duels wons
