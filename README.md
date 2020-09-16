@@ -4,6 +4,7 @@ Repository to hold the match data for Italia's Serie A and some analysis based o
 Match data available:  
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2019-2020_Match_data.csv)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2018-2019_Match_data.csv)
+* [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2017-2018_Match_data.csv)
 
 Player data available:  
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2019-2020)
