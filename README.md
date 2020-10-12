@@ -17,8 +17,179 @@ Player data available:
 (soon) TODO: Player data for previous seasons  
 (soon) TODO: More statistical analysis  
 
+## 1 - 2020/2021 Player statistics (until round 2)  
+To be eligible for the rankings, a player must have played at least 90 minutes througout 1 match this season:
+| | **Player name** | **Team** | **Minutes played** |
+| :---: | :--- | :---: | :---: |
+| *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 199 |
+| *-* | F.Djuricic | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 199 |
+| *-* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 199 |
+| *-* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 199 |
+| *5* | J.Ramos / A.Galabinov / M.Ricci | <img src="/imgs/clubs logo/spezia.png" width="25"> / <img src="/imgs/clubs logo/spezia.png" width="25"> / <img src="/imgs/clubs logo/spezia.png" width="25"> | 198 |
 
-## 1 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
+| | **Player name** | **Team** | **Minutes played avg per game** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Duncan | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 100 |
+| *-* | C.Ansaldi | <img src="/imgs/clubs logo/torino.png" width="25"> | 100 |
+| *3* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99.5 |
+| *-* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99.5 |
+| *-* | G.Ferrari / F.Djuricic | <img src="/imgs/clubs logo/sassuolo.png" width="25"> / <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99.5 |
+
+
+| | **Player name** | **Team** | **Total goals** |
+| :---: | :--- | :---: | :---: |
+| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 3 |
+| *-* | R.Lukaku | <img src="/imgs/clubs logo/inter.png" width="25"> | 3 |
+| *-* | A.Galabinov | <img src="/imgs/clubs logo/spezia.png" width="25"> | 3 |
+| *-* | A.Gomez | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 3 |
+| *5* | Z.Ibrahimovic / L.Caldirola / J.Veretout / ... | <img src="/imgs/clubs logo/milan.png" width="25"> / <img src="/imgs/clubs logo/benevento.png" width="25"> / <img src="/imgs/clubs logo/roma.png" width="25"> / ... | 2 |
+
+
+| | **Player name** | **Team** | **Goal per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 47.5 minutes |
+| *2* | R.Lukaku | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 54.3 minutes |
+| *3* | A.Gomez | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal every 56 minutes |
+| *4* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 62 minutes |
+| *5* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal every 62.3 minutes |
+
+
+| | **Player name** | **Team** | **Attempts** |
+| :---: | :--- | :---: | :---: |
+| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 13 |
+| *2* | K.Lasagna | <img src="/imgs/clubs logo/udinese.png" width="25"> | 10 |
+| *-* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 10 |
+| *-* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 10 |
+| *5* | M.Locatelli / A.Gomez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> | 8 |
+
+
+| | **Player name** | **Team** | **Attempts per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 attempt every 13.5 minutes |
+| *2* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 attempt every 14.3 minutes |
+| *3* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 attempt every 18.9 minutes |
+| *4* | K.Lasagna | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 attempt every 19.3 minutes |
+| *5* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 attempt every 19.9 minutes |
+
+
+| | **Player name** | **Team** | **Assists** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Marusic | <img src="/imgs/clubs logo/lazio.png" width="25"> | 2 |
+| *-* | F.Ribery | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 2 |
+| *-* | P.Ghiglione | <img src="/imgs/clubs logo/genoa.png" width="25"> | 2 |
+| *-* | A.Sanchez | <img src="/imgs/clubs logo/inter.png" width="25"> | 2 |
+| *-* | G.Ferrari / A.Gomez / A.Hakimi / D.Mertens | <img src="/imgs/clubs logo/sassuolo.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> / <img src="/imgs/clubs logo/inter.png" width="25"> / <img src="/imgs/clubs logo/napoli.png" width="25"> | 2 |
+
+
+| | **Player name** | **Team** | **Assists per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Sanchez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 55.5 minutes |
+| *2* | A.Hakimi | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 62.5 minutes |
+| *3* | P.Ghiglione | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 assist every 66 minutes |
+| *4* | D.Mertens | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 assist every 78.5 minutes |
+| *5* | F.Ribery | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 assist every 84 minutes |
+
+
+| | **Player name** | **Team** | **Balls played** |
+| :---: | :--- | :---: | :---: |
+| *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 244 |
+| *2* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 233 |
+| *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 230 |
+| *4* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 216 |
+| *5* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 215 |
+
+
+| | **Player name** | **Team** | **Balls played per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 0.8 minutes |
+| *2* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 0.81 minutes |
+| *3* | A.Bastoni | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 ball played every 0.82 minutes |
+| *4* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 0.85 minutes |
+| *5* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 0.86 minutes |
+
+
+| | **Player name** | **Team** | **Passes** |
+| :---: | :--- | :---: | :---: |
+| *1* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 203 |
+| *2* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 185 |
+| *3* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 183 |
+| *4* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 179 |
+| *5* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 163 |
+
+
+| | **Player name** | **Team** | **Passes per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 0.980 minutes |
+| *2* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 0.989 minutes |
+| *3* | A.Bastoni | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 pass every 1 minutes |
+| *4* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 pass every 1.06 minutes |
+| *5* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.08 minutes |
+
+
+| | **Player name** | **Team** | **Passes completed percentage** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Masiello | <img src="/imgs/clubs logo/genoa.png" width="25"> | 100% |
+| *-* | K.Manolas | <img src="/imgs/clubs logo/napoli.png" width="25"> | 100% |
+| *3* | A.Grassi | <img src="/imgs/clubs logo/parma.png" width="25"> | 98% |
+| *-* | J.Toljan | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 98% |
+| *5* | J.Chabot / G.Ferrari | <img src="/imgs/clubs logo/spezia.png" width="25"> / <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 97.5% |
+
+
+| | **Player name** | **Team** | **Key passes** |
+| :---: | :--- | :---: | :---: |
+| *1* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 5 |
+| *2* | F.Ribery | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 4 |
+| *-* | A.Ramsey | <img src="/imgs/clubs logo/juventus.png" width="25"> | 4 |
+| *4* | L.Spinazzola | <img src="/imgs/clubs logo/roma.png" width="25"> | 3 |
+| *-* | H.Calhanoglu / S.Okaka | <img src="/imgs/clubs logo/milan.png" width="25"> / <img src="/imgs/clubs logo/udinese.png" width="25"> | 3 |
+
+
+| | **Player name** | **Team** | **Key passes per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1  key pass every 38.6 minutes |
+| *2* | A.Ramsey | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1  key pass every 40.5 minutes |
+| *3* | F.Ribery | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1  key pass every 42 minutes |
+| *4* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 1  key pass every 52.6 minutes |
+| *5* | I.Perisic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1  key pass every 54 minutes |
+
+
+| | **Player name** | **Team** | **Fouls suffered** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 11 |
+| *2* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 8 |
+| *-* | L.Cigarini | <img src="/imgs/clubs logo/crotone.png" width="25"> | 8 |
+| *4* | J.Messias | <img src="/imgs/clubs logo/crotone.png" width="25"> | 7 |
+| *-* | H.Lozano | <img src="/imgs/clubs logo/napoli.png" width="25"> | 7 |
+
+
+| | **Player name** | **Team** | **Fouls suffered per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 foul suffered every 17.8 minutes |
+| *2* | M.Zaccagni | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 1 foul suffered every 21.1 minutes |
+| *3* | H.Lozano | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 foul suffered every 21.5 minutes |
+| *4* | L.Cigarini | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 foul suffered every 23.1 minutes |
+| *5* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 foul suffered every 24.1 minutes |
+
+
+| | **Player name** | **Team** | **Recoveries** |
+| :---: | :--- | :---: | :---: |
+| *1* | K.Gunter | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 27 |
+| *2* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 25 |
+| *3* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 24 |
+| *4* | O.Colley | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 22 |
+| *-* | F.Ceccherini / S.De Maio | <img src="/imgs/clubs logo/fiorentina.png" width="25"> / <img src="/imgs/clubs logo/udinese.png" width="25"> | 22 |
+
+
+| | **Player name** | **Team** | **Recoveries per minute played** |
+| :---: | :--- | :---: | :---: |
+| *1* | K.Gunter | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 1 recovery every 6.1 minutes |
+| *2* | C.Zapata | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 recovery every 7.3 minutes |
+| *3* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 recovery every 7.84 minutes |
+| *4* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 recovery every 7.95 minutes |
+| *5* | S.De Maio | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 recovery every 8.09 minutes |
+
+
+## 2 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
 If you ask someone randomly on the street, the answer will probably be *"Of course, it does matter. Home teams will be playing in a familiar place, they will have the majority of the support from the stands and also don't need to travel to get there. They do have an advantage."* and their answer is not wrong, playing at home gives some psychological and physical advantages to the home team. That's why everyone wants to play the second leg of a knockout tournment at home, that advantage in the most important game can decide which team qualifies and which one drops out from the competition.  
 
 [Looking at the data from England](https://www.skysports.com/football/news/11096/10955089/sky-sports-bust-common-football-myths-home-advantage), home-field advantage is something that exists since 1895, where the home-team would win 64.6% of the time, and even though it has been decreasing since them, it never went below 40%. Home-field advantage it is indeed a thing, but the main question is, does it happens in Italian football (more specifically the Serie A 2019-2020 season)? I will try to answer this question.  
@@ -220,7 +391,7 @@ We summarize the result in the following table:
 As we can see from the table, Juventus and Lazio were the only teams who statisticaly achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
 
 
-## 2 - Does penalties matter?  
+## 3 - Does penalties matter?  
 Penalties, the most controversial topic in the world of soccer. After the weekend round, penalties are normally the most discussed topic in TV sports programs or between a group of friends. "It was clearly a foul" or "The player faked, the other guy didn't even touched him", "The foul was outside the penalty area" or "The foul was inside the penalty area", "That handball was clearly a penalty, it would be a goal if wasn't for it" or "That handball was not on purpose, the arm was against his body, he couldn't do anything" and so many statements like this are made to justify or not the award of a penalty. It's understandable why this is a hot topic, compared to other sports like basketball, volleyball and tennis, soccer is a sport where teams score just a few "points" every match (having no "points" scored at all being also common), so having a type of foul that allow a team to score a point easily is a very big deal.  
 The introduction of VAR (Video assistent referee) helped a lot in this regard, making it easy for referees, now they don't need to decide a game-changing situation like a penalty in the heat of the moment, they can check many times a replay, check from different angles and then reach a decision (a decision that many fans around the world will still argue against).  
 Penalties are important, no doubt about that, it can change the game in just one second. It can bring a team back to life after spending most of the match only defending, it can save the favorite team who spent the whole game "hammering down" the smaller one and didn't got any goal at all. Also have a psychological effect on the players. It's important, but does it affect results in the long run? Dr. Tunde Buraimo [answered this question in the book "Soccernomics"](https://www.goodreads.com/book/show/6617185-soccernomics) by analyzing 1520 Premier League matches, from the 2002/2003 season until the 2005/2006 one. He compared matches where penalties were awarded against the ones where there was no penalty, and checked if there was a difference between the average of home wins, away wins and draws of both groups. In the result, there was an increase of almost 3% of home wins when there was a penalty involved in the match, but at the same time, analysis showed that this difference is not statistically significant. In conclusion, penalties does not change the outcome of matches in the long run.  
