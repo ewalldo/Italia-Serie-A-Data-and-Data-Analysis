@@ -23,17 +23,18 @@ To be eligible for the rankings, a player must have played at least 180 minutes 
 | :---: | :--- | :---: | :---: |
 | *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 396 |
 | *-* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 396 |
+| *-* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 396 |
 | *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 389 |
-| *-* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 389 |
-| *5* | J.Schouten / N.Milenkovic / M.Caceres / T.Tomiyasu | <img src="/imgs/clubs logo/bologna.png" width="25"> / <img src="/imgs/clubs logo/fiorentina.png" width="25"> / <img src="/imgs/clubs logo/fiorentina.png" width="25"> / <img src="/imgs/clubs logo/bologna.png" width="25"> | 388 |
+| *4* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 389 |
+
 
 | | **Player name** | **Team** | **Minutes played avg per game** |
 | :---: | :--- | :---: | :---: |
 | *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99 |
 | *-* | F.Caputo | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99 |
 | *-* | J.Ramos | <img src="/imgs/clubs logo/spezia.png" width="25"> | 99 |
-| *4* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 98 |
-| *5* | A.Belotti / N.Nkoulou | <img src="/imgs/clubs logo/torino.png" width="25"> / <img src="/imgs/clubs logo/torino.png" width="25"> | 97.3 |
+| *-* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 99 |
+| *5* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 98 |
 
 
 | | **Player name** | **Team** | **Total goals** |
@@ -187,6 +188,69 @@ To be eligible for the rankings, a player must have played at least 180 minutes 
 | *3* | C.Zapata | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 recovery every 7.6 minutes |
 | *4* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 recovery every 7.84 minutes |
 | *5* | S.De Maio | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 recovery every 8.2 minutes |
+
+
+| | **Player name** | **Team** | **More goals conceded** |
+| :---: | :--- | :---: | :---: |
+| *1* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 12 |
+| *2* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 11 |
+| *3* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 10 |
+| *4* | M.Sportiello | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 9 |
+| *-* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 9 |
+
+
+| | **Player name** | **Team** | **More goals conceded per minute** |
+| :---: | :--- | :---: | :---: |
+| *1* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 1 goal conceded every 32.0 minutes |
+| *2* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 goal conceded every 35.0 minutes |
+| *2* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 goal conceded every 36.5 minutes |
+| *3* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 goal conceded every 38.2 minutes |
+| *4* | M.Sportiello | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal conceded every 42.2 minutes |
+
+
+| | **Player name** | **Team** | **Least goals conceded** |
+| :---: | :--- | :---: | :---: |
+| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 |
+| *-* | M.Silvestri | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 1 |
+| *-* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 |
+| *-* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 |
+| *5* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 2 |
+
+
+| | **Player name** | **Team** | **Least goals conceded per minute** |
+| :---: | :--- | :---: | :---: |
+| *1* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 387 minutes |
+| *2* | M.Silvestri | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 1 goal conceded every 382 minutes |
+| *2* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal conceded every 192 minutes |
+| *3* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 goal conceded every 190 minutes |
+| *4* | A.Mirante | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 goal conceded every 95.7 minutes |
+
+
+| | **Player name** | **Team** | **Saves** |
+| :---: | :--- | :---: | :---: |
+| *1* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 24 |
+| *2* | M.Sportiello | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 17 |
+| *-* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 17 |
+| *4* | M.Silvestri | <img src="/imgs/clubs logo/hellas verona.png" width="25"> | 16 |
+| *5* | M.Perin / A.Consigli | <img src="/imgs/clubs logo/genoa.png" width="25"> / <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 15 |
+
+
+| | **Player name** | **Team** | **Saves per minute** |
+| :---: | :--- | :---: | :---: |
+| *1* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 save every 12.6 minutes |
+| *2* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 save every 15.9 minutes |
+| *2* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 save every 20.8 minutes |
+| *3* | M.Sportiello | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 save every 22.3 minutes |
+| *4* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 save every 22.8 minutes |
+
+
+| | **Player name** | **Team** | **Saves on set pieces + free kicks** |
+| :---: | :--- | :---: | :---: |
+| *1* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 3 |
+| *2* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 2 |
+| *-* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 2 |
+| *-* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 2 |
+| *-* | G.Donnarumma / B.Dragowski / A.Mirante | <img src="/imgs/clubs logo/milan.png" width="25"> / <img src="/imgs/clubs logo/fiorentina.png" width="25"> / <img src="/imgs/clubs logo/roma.png" width="25"> | 2 |
 
 
 ## 2 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
