@@ -17,7 +17,7 @@ Player data available:
 (soon) TODO: Player data for previous seasons  
 (soon) TODO: More statistical analysis  
 
-## 1 - 2020/2021 Player statistics (until round 3)  
+## 1 - 2020/2021 Player statistics (until round 4)  
 To be eligible for the rankings, a player must have played at least 180 minutes througout 2 matches this season:
 | | **Player name** | **Team** | **Minutes played** |
 | :---: | :--- | :---: | :---: |
