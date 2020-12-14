@@ -15,15 +15,15 @@ Player data available:
 * [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2017-2018)
 * [2016/2017 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2016-2017)
 
-TODO: Fix issue with "Attempts on target from penalty box" for match data 20/21
+TODO: Fix issue with "Attempts on target from penalty box" for match data 20/21  
 TODO: Match data for previous seasons  
 TODO: Player data for previous seasons  
 TODO: More statistical analysis  
 
-## 1 - Attacking efficiency 2020/2021 (until round 10)  
+## 1 - Attacking efficiency 2020/2021 (until round 11)  
 <img src="/imgs/at_eff_ha.png" width="240"><img src="/imgs/at_eff_h.png" width="240"><img src="/imgs/at_eff_a.png" width="240">  
 
-## 2 - Defensive efficiency 2020/2021 (until round 10)  
+## 2 - Defensive efficiency 2020/2021 (until round 11)  
 <img src="/imgs/def_eff_ha.png" width="240"><img src="/imgs/def_eff_h.png" width="240"><img src="/imgs/def_eff_a.png" width="240">  
 
 ## 3 - 2020/2021 Player statistics (until round 11)  
