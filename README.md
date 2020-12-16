@@ -15,7 +15,6 @@ Player data available:
 * [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2017-2018)
 * [2016/2017 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2016-2017)
 
-TODO: Fix issue with "Attempts on target from penalty box" for match data 20/21  
 TODO: Match data for previous seasons  
 TODO: Player data for previous seasons  
 TODO: More statistical analysis  
