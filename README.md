@@ -9,6 +9,7 @@ Match data available:
 * [2016/2017 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2016-2017_Match_data.csv)
 * 2015/2016 season (Soon)
 * [2014/2015 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2014-2015_Match_data.csv)
+* [2013/2014 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2013-2014_Match_data.csv)
 
 Player data available:  
 * [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2020-2021) (until 18th round, updated: jan/19)
