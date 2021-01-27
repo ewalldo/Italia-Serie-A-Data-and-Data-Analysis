@@ -28,7 +28,10 @@ TODO: More statistical analysis
 ## 2 - Defensive efficiency 2020/2021 (until round 19, updated: jan/25)  
 <img src="/imgs/def_eff_ha.png" width="240"><img src="/imgs/def_eff_h.png" width="240"><img src="/imgs/def_eff_a.png" width="240">  
 
-## 3 - 2020/2021 Player statistics (until round 19, updated: jan/25)  
+## 3 - Crossing efficiency 2020/2021 (from round 11 until round 19, updated: jan/25)  
+<img src="/imgs/crs_eff_ha.png" width="240"><img src="/imgs/crs_eff_h.png" width="240"><img src="/imgs/crs_eff_a.png" width="240">  
+
+## 4 - 2020/2021 Player statistics (until round 19, updated: jan/25)  
 To be eligible for the rankings, a player must have played at least 570 minutes throughout 6 matches this season:  
 
 ### Non-goalkeeper rankings  
@@ -285,7 +288,7 @@ To be eligible for the rankings, a player must have played at least 570 minutes 
 | *-* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 10 |
 
 
-## 4 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
+## 5 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
 If you ask someone randomly on the street, the answer will probably be *"Of course, it does matter. Home teams will be playing in a familiar place, they will have the majority of the support from the stands and also don't need to travel to get there. They do have an advantage."* and their answer is not wrong, playing at home gives some psychological and physical advantages to the home team. That's why everyone wants to play the second leg of a knockout tournment at home, that advantage in the most important game can decide which team qualifies and which one drops out from the competition.  
 
 [Looking at the data from England](https://www.skysports.com/football/news/11096/10955089/sky-sports-bust-common-football-myths-home-advantage), home-field advantage is something that exists since 1895, where the home-team would win 64.6% of the time, and even though it has been decreasing since them, it never went below 40%. Home-field advantage it is indeed a thing, but the main question is, does it happens in Italian football (more specifically the Serie A 2019-2020 season)? I will try to answer this question.  
@@ -356,7 +359,7 @@ Wait!? How can that be possible!? We said at the beggining that home-teams have 
 Well, we believe that there is a simple answer to that, amount of data. We analyzed only one season (380 matches), and that number is not enough to notice a difference between home and away win, that 21 more wins is not big enough. If we add together other seasons, that difference will be bigger, and if we redo the Student's t-test maybe we will notice a difference in favour of the home teams (will do that when I upload previous seasons data).  
 In conclusion: By analyzing one season only, more specifically 2019-2020 season, we can't say that home teams has more chances to win match than the away team.  
 
-### 1.1 - Individual teams home-away advantage  
+### 5.1 - Individual teams home-away advantage  
 That is the result by checking all matches, but how about individual teams? We will apply the same statistical analysis to every team to check who performed better at home and who performed better playing away. Before we ignored the matches who ended up on a draw, but here we won't do that, to check for home advantage we will compare the number of home wins against the number of non home wins (away wins + draw). To check for teams who played better away, we do the same, number of away wins against number of non away wins (home wins + draw). Even though, draw a match in soccer is better than losing it, we are giving the same *weight* to both, we are trying to measure if a team wins more when playing at home or away, so even though a drawing is better than losing, it is still a failure to win a match. (code for this analysis is on the italia_statistical_analysis.py)  
 #### <img src="/imgs/clubs logo/atalanta.png" width="40">Atalanta  
 Home wins: 12/19  
@@ -487,7 +490,7 @@ We summarize the result in the following table:
 As we can see from the table, Juventus and Lazio were the only teams who statisticaly achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
 
 
-## 5 - Does penalties matter?  
+## 6 - Does penalties matter?  
 Penalties, the most controversial topic in the world of soccer. After the weekend round, penalties are normally the most discussed topic in TV sports programs or between a group of friends. "It was clearly a foul" or "The player faked, the other guy didn't even touched him", "The foul was outside the penalty area" or "The foul was inside the penalty area", "That handball was clearly a penalty, it would be a goal if wasn't for it" or "That handball was not on purpose, the arm was against his body, he couldn't do anything" and so many statements like this are made to justify or not the award of a penalty. It's understandable why this is a hot topic, compared to other sports like basketball, volleyball and tennis, soccer is a sport where teams score just a few "points" every match (having no "points" scored at all being also common), so having a type of foul that allow a team to score a point easily is a very big deal.  
 The introduction of VAR (Video assistent referee) helped a lot in this regard, making it easy for referees, now they don't need to decide a game-changing situation like a penalty in the heat of the moment, they can check many times a replay, check from different angles and then reach a decision (a decision that many fans around the world will still argue against).  
 Penalties are important, no doubt about that, it can change the game in just one second. It can bring a team back to life after spending most of the match only defending, it can save the favorite team who spent the whole game "hammering down" the smaller one and didn't got any goal at all. Also have a psychological effect on the players. It's important, but does it affect results in the long run? Dr. Tunde Buraimo [answered this question in the book "Soccernomics"](https://www.goodreads.com/book/show/6617185-soccernomics) by analyzing 1520 Premier League matches, from the 2002/2003 season until the 2005/2006 one. He compared matches where penalties were awarded against the ones where there was no penalty, and checked if there was a difference between the average of home wins, away wins and draws of both groups. In the result, there was an increase of almost 3% of home wins when there was a penalty involved in the match, but at the same time, analysis showed that this difference is not statistically significant. In conclusion, penalties does not change the outcome of matches in the long run.  
