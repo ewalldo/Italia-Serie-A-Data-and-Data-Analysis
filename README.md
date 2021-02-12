@@ -10,6 +10,7 @@ Match data available:
 * 2015/2016 season (Soon)
 * [2014/2015 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2014-2015_Match_data.csv)
 * [2013/2014 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2013-2014_Match_data.csv)
+* [2012/2013 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2012-2013_Match_data.csv)
 
 Player data available:  
 * [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2020-2021) (until 21st round, updated: feb/08)
@@ -31,7 +32,7 @@ TODO: More statistical analysis
 ## 3 - Crossing efficiency 2020/2021 (from round 11 until round 21, updated: feb/08)  
 <img src="/imgs/crs_eff_ha.png" width="240"><img src="/imgs/crs_eff_h.png" width="240"><img src="/imgs/crs_eff_a.png" width="240">  
 
-## 4 - 2020/2021 Player statistics (until round 20, updated: feb/01)  
+## 4 - 2020/2021 Player statistics (until round 21, updated: feb/08)  
 To be eligible for the rankings, a player must have played at least 630 minutes throughout 7 matches this season:  
 
 ### Non-goalkeeper rankings  
