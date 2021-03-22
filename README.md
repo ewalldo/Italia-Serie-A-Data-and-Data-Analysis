@@ -2,7 +2,7 @@
 Repository to hold the match data for Italia's Serie A and some analysis based on that.  
 
 Match data available:  
-* [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2020-2021_Match_data.csv) (until 27th round, updated: mar/19)
+* [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2020-2021_Match_data.csv) (until 28th round, updated: mar/22)
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2019-2020_Match_data.csv)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2018-2019_Match_data.csv)
 * [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2017-2018_Match_data.csv)
@@ -14,7 +14,7 @@ Match data available:
 * [2011/2012 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2011-2012_Match_data.csv)
 
 Player data available:  
-* [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2020-2021) (until 27th round, updated: mar/19)
+* [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2020-2021) (until 28th round, updated: mar/22)
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2019-2020)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2018-2019)
 * [2017/2018 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2017-2018)
@@ -24,35 +24,35 @@ Player data available:
 TODO: Match data for previous seasons  
 TODO: More statistical analysis  
 
-## 1 - Attacking efficiency 2020/2021 (until 27th round, updated: mar/15)  
+## 1 - Attacking efficiency 2020/2021 (until 28th round, updated: mar/22)  
 <img src="/imgs/at_eff_ha.png" width="240"><img src="/imgs/at_eff_h.png" width="240"><img src="/imgs/at_eff_a.png" width="240">  
 
-## 2 - Defensive efficiency 2020/2021 (until 27th round, updated: mar/15)  
+## 2 - Defensive efficiency 2020/2021 (until 28th round, updated: mar/22)  
 <img src="/imgs/def_eff_ha.png" width="240"><img src="/imgs/def_eff_h.png" width="240"><img src="/imgs/def_eff_a.png" width="240">  
 
-## 3 - Crossing efficiency 2020/2021 (from round 11 until round 27, updated: mar/15)  
+## 3 - Crossing efficiency 2020/2021 (from round 11 until round 28, updated: mar/22)  
 <img src="/imgs/crs_eff_ha.png" width="240"><img src="/imgs/crs_eff_h.png" width="240"><img src="/imgs/crs_eff_a.png" width="240">  
 
-## 4 - 2020/2021 Player statistics (until 27th round, updated: mar/15)  
-To be eligible for the rankings, a player must have played at least 810 minutes throughout 9 matches this season:  
+## 4 - 2020/2021 Player statistics (until 28th round, updated: mar/22)  
+To be eligible for the rankings, a player must have played at least 840 minutes throughout 9 matches this season:  
 
 ### Non-goalkeeper rankings  
 | | **Player name** | **Team** | **Minutes played** |
 | :---: | :--- | :---: | :---: |
-| *1* | R.Soriano | <img src="/imgs/clubs logo/bologna.png" width="25"> | 2543 |
-| *2* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 2496 |
-| *3* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 2477 |
-| *4* | L.Danilo | <img src="/imgs/clubs logo/bologna.png" width="25"> | 2465 |
-| *5* | J.Messias | <img src="/imgs/clubs logo/crotone.png" width="25"> | 2458 |
+| *1* | R.Soriano | <img src="/imgs/clubs logo/bologna.png" width="25"> | 2637 |
+| *2* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 2593 |
+| *3* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 2574 |
+| *4* | L.Danilo | <img src="/imgs/clubs logo/bologna.png" width="25"> | 2559 |
+| *5* | J.Messias | <img src="/imgs/clubs logo/crotone.png" width="25"> | 2552 |
 
 
 | | **Player name** | **Team** | **Minutes played avg per game** |
 | :---: | :--- | :---: | :---: |
-| *1* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 96.80 |
-| *2* | T.Hernandez | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.39 |
-| *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.29 |
-| *4* | A.Romagnoli | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.05 |
-| *5* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 96.00 |
+| *1* | T.Hernandez | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.37 |
+| *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.36 |
+| *3* | A.Romagnoli | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.05 |
+| *4* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 96.00 |
+| *5* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 95.33 |
 
 
 | | **Player name** | **Team** | **Total goals** |
@@ -60,34 +60,34 @@ To be eligible for the rankings, a player must have played at least 810 minutes 
 | *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 23 |
 | *2* | R.Lukaku | <img src="/imgs/clubs logo/inter.png" width="25"> | 19 |
 | *3* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 16 |
-| *4* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 14 |
-| *-* | C.Immobile / L.Martinez | <img src="/imgs/clubs logo/lazio.png" width="25"> | 14 |
+| *4* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 15 |
+| *5* | C.Immobile / L.Martinez | <img src="/imgs/clubs logo/lazio.png" width="25"> | 14 |
 
 
 | | **Player name** | **Team** | **Goal per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal every 64.5 minutes |
-| *2* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 83.0 minutes |
-| *3* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal every 88.8 minutes |
+| *1* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal every 65.6 minutes |
+| *2* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 83.8 minutes |
+| *3* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal every 93.0 minutes |
 | *4* | R.Lukaku | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 114.0 minutes |
 | *5* | F.Caicedo | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 goal every 126.1 minutes |
 
 
 | | **Player name** | **Team** | **Attempts** |
 | :---: | :--- | :---: | :---: |
-| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 111 |
-| *2* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 91 |
+| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 120 |
+| *2* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 93 |
 | *3* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 80 |
-| *4* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 71 |
-| *5* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 69 |
+| *-* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 80 |
+| *5* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 76 |
 
 
 | | **Player name** | **Team** | **Attempts per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 attempt every 18.4 minutes |
-| *2* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 18.7 minutes |
-| *3* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 attempt every 19.0 minutes |
-| *4* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 20.8 minutes |
+| *1* | C.Ronaldo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 attempt every 17.8 minutes |
+| *2* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 18.4 minutes |
+| *3* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 attempt every 19.6 minutes |
+| *4* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 21.3 minutes |
 | *5* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 attempt every 24.1 minutes |
 
 
@@ -97,106 +97,106 @@ To be eligible for the rankings, a player must have played at least 810 minutes 
 | *-* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 8 |
 | *3* | S.Milinkovic-Savic | <img src="/imgs/clubs logo/lazio.png" width="25"> | 7 |
 | *-* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 7 |
-| *-* | A.Morata / J.Ilicic / D.Zapata / F.Chiesa | <img src="/imgs/clubs logo/juventus.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> / <img src="/imgs/clubs logo/juventus.png" width="25"> | 7 |
+| *-* | A.Morata / J.Ilicic / D.Zapata / F.Chiesa / M.Barrow | <img src="/imgs/clubs logo/juventus.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> / <img src="/imgs/clubs logo/atalanta.png" width="25"> / <img src="/imgs/clubs logo/juventus.png" width="25"> / <img src="/imgs/clubs logo/bologna.png" width="25"> | 7 |
 
 
 | | **Player name** | **Team** | **Assists per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 147.5 minutes |
+| *1* | L.Muriel | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 150.0 minutes |
 | *2* | A.Sanchez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 152.1 minutes |
-| *3* | D.Mertens | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 assist every 179.1 minutes |
-| *4* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 186.7 minutes |
-| *5* | A.Morata | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 assist every 202.2 minutes |
+| *3* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 189.1 minutes |
+| *4* | D.Mertens | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 assist every 190.3 minutes |
+| *5* | A.Morata | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 assist every 216.0 minutes |
 
 
 | | **Player name** | **Team** | **Balls played** |
 | :---: | :--- | :---: | :---: |
 | *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 2345 |
 | *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 2110 |
-| *3* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 2072 |
-| *4* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 2069 |
-| *5* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 2015 |
+| *3* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 2177 |
+| *4* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 2114 |
+| *5* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 2072 |
 
 
 | | **Player name** | **Team** | **Balls played per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 0.96 minutes |
-| *2* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 1.02 minutes |
-| *3* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.06 minutes |
+| *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 0.97 minutes |
+| *2* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 1.00 minutes |
+| *3* | R.Bentancur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 1.06 minutes |
 | *4* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 ball played every 1.071 minutes |
-| *5* | R.Bentancur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 1.076 minutes |
+| *5* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 ball played every 1.079 minutes |
 
 
 | | **Player name** | **Team** | **Passes** |
 | :---: | :--- | :---: | :---: |
-| *1* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1698 |
-| *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1673 |
-| *3* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1506 |
+| *1* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1739 |
+| *2* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1709 |
+| *3* | Danilo | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1578 |
 | *4* | A.Bastoni | <img src="/imgs/clubs logo/inter.png" width="25"> | 1488 |
 | *5* | M.Skriniar | <img src="/imgs/clubs logo/inter.png" width="25"> | 1388 |
 
 
 | | **Player name** | **Team** | **Passes per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 pass every 1.24 minutes |
-| *2* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.33 minutes |
-| *3* | Marlon | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.34 minutes |
-| *4* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.38 minutes |
-| *5* | M.De Ligt | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 pass every 1.40 minutes |
+| *1* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 pass every 1.21 minutes |
+| *2* | M.Locatelli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.34 minutes |
+| *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.38 minutes |
+| *4* | Marlon | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.39 minutes |
+| *5* | M.De Ligt | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 pass every 1.43 minutes |
 
 
 | | **Player name** | **Team** | **Passes completed percentage** |
 | :---: | :--- | :---: | :---: |
 | *1* | S.De Vrij | <img src="/imgs/clubs logo/inter.png" width="25"> | 92.60% |
-| *2* | N.Maksimovic | <img src="/imgs/clubs logo/napoli.png" width="25"> | 92.46% |
+| *2* | N.Maksimovic | <img src="/imgs/clubs logo/napoli.png" width="25"> | 92.50% |
 | *3* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 92.31% |
-| *4* | M.De Ligt | <img src="/imgs/clubs logo/juventus.png" width="25"> | 92.26% |
-| *5* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 92.13% |
+| *4* | M.Skriniar | <img src="/imgs/clubs logo/inter.png" width="25"> | 92.08% |
+| *5* | Arthur | <img src="/imgs/clubs logo/juventus.png" width="25"> | 92.06% |
 
 
 | | **Player name** | **Team** | **Key passes** |
 | :---: | :--- | :---: | :---: |
-| *1* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 29 |
-| *2* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 28 |
+| *1* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 34 |
+| *2* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 29 |
 | *3* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 22 |
-| *4* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 20 |
-| *5* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 19 |
+| *-* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 22 |
+| *5* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 20 |
 
 
 | | **Player name** | **Team** | **Key passes per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1  key pass every 46.6 minutes |
-| *2* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1  key pass every 84.8 minutes |
-| *3* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1  key pass every 85.4 minutes |
-| *4* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 1  key pass every 88.7 minutes |
-| *5* | R.Malinovskyi | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1  key pass every 93.6 minutes |
+| *1* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1  key pass every 45.6 minutes |
+| *2* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1  key pass every 75.7 minutes |
+| *3* | H.Calhanoglu | <img src="/imgs/clubs logo/milan.png" width="25"> | 1  key pass every 84.8 minutes |
+| *4* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1  key pass every 88.2 minutes |
+| *5* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1  key pass every 96.4 minutes |
 
 
 | | **Player name** | **Team** | **Fouls suffered** |
 | :---: | :--- | :---: | :---: |
-| *1* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 95 |
-| *2* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 93 |
-| *3* | M.Zaccagni | <img src="/imgs/clubs logo/verona.png" width="25"> | 74 |
-| *4* | J.Messias | <img src="/imgs/clubs logo/crotone.png" width="25"> | 73 |
-| *5* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 72 |
+| *1* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 100 |
+| *2* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 97 |
+| *3* | M.Zaccagni | <img src="/imgs/clubs logo/verona.png" width="25"> | 77 |
+| *-* | J.Messias | <img src="/imgs/clubs logo/crotone.png" width="25"> | 77 |
+| *5* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 75 |
 
 
 | | **Player name** | **Team** | **Fouls suffered per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 foul suffered every 22.53 minutes |
-| *2* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 foul suffered every 23.76 minutes |
-| *3* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 foul suffered every 26.07 minutes |
-| *4* | M.Zaccagni | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 foul suffered every 27.37 minutes |
-| *5* | H.Lozano | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 foul suffered every 27.84 minutes |
+| *1* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 foul suffered every 22.82 minutes |
+| *2* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 foul suffered every 24.07 minutes |
+| *3* | R.De Paul | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 foul suffered every 26.53 minutes |
+| *4* | M.Zaccagni | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 foul suffered every 27.53 minutes |
+| *5* | H.Lozano | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 foul suffered every 28.22 minutes |
 
 
 | | **Player name** | **Team** | **Recoveries** |
 | :---: | :--- | :---: | :---: |
-| *1* | K.Glik | <img src="/imgs/clubs logo/benevento.png" width="25"> | 242 |
-| *2* | T.Tomiyasu | <img src="/imgs/clubs logo/bologna.png" width="25"> | 238 |
-| *3* | C.Romero | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 227 |
-| *4* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 216 |
-| *5* | N.Milenkovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 210 |
+| *1* | T.Tomiyasu | <img src="/imgs/clubs logo/bologna.png" width="25"> | 249 |
+| *2* | K.Glik | <img src="/imgs/clubs logo/benevento.png" width="25"> | 242 |
+| *3* | C.Romero | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 239 |
+| *4* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 226 |
+| *5* | N.Milenkovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 218 |
 
 
 | | **Player name** | **Team** | **Recoveries per minute played** |
@@ -204,44 +204,44 @@ To be eligible for the rankings, a player must have played at least 810 minutes 
 | *1* | G.Magnani | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 6.8 minutes |
 | *2* | K.Gunter | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 7.5 minutes |
 | *3* | C.Romero | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 recovery every 7.8 minutes |
-| *4* | M.Bani | <img src="/imgs/clubs logo/parma.png" width="25"> | 1 recovery every 9.0 minutes |
+| *4* | M.Bani | <img src="/imgs/clubs logo/parma.png" width="25"> | 1 recovery every 8.7 minutes |
 | *5* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 recovery every 9.1 minutes |
 
 
 ### Goalkeeper rankings  
 | | **Player name** | **Team** | **Minutes played** |
 | :---: | :--- | :---: | :---: |
-| *1* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 2598 |
-| *2* | M.Silvestri | <img src="/imgs/clubs logo/verona.png" width="25"> | 2586 |
-| *-* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 2586 |
-| *4* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 2585 |
-| *5* | L.Sepe / S.Handanovic | <img src="/imgs/clubs logo/parma.png" width="25"> / <img src="/imgs/clubs logo/inter.png" width="25"> | 2583 |
+| *1* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 2683 |
+| *2* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 2681 |
+| *3* | M.Silvestri | <img src="/imgs/clubs logo/verona.png" width="25"> | 2680 |
+| *4* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 2679 |
+| *5* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 2676 |
 
 
 | | **Player name** | **Team** | **Minutes played avg per game** |
 | :---: | :--- | :---: | :---: |
 | *1* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 97.00 |
-| *2* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.56 |
+| *2* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.61 |
 | *3* | A.Meret | <img src="/imgs/clubs logo/napoli.png" width="25"> | 96.33 |
-| *4* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 96.22 |
-| *5* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.19 |
+| *4* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.18 |
+| *5* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 96.13 |
 
 
 | | **Player name** | **Team** | **More goals conceded** |
 | :---: | :--- | :---: | :---: |
-| *1* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 67 |
-| *2* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 52 |
+| *1* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 70 |
+| *2* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 54 |
 | *-* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 52 |
-| *4* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 46 |
-| *5* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 43 |
+| *4* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 48 |
+| *5* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 46 |
 
 
 | | **Player name** | **Team** | **More goals conceded per minute** |
 | :---: | :--- | :---: | :---: |
-| *1* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 goal conceded every 38.4 minutes |
+| *1* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 goal conceded every 38.1 minutes |
 | *2* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 1 goal conceded every 49.6 minutes |
-| *3* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 1 goal conceded every 49.7 minutes |
-| *4* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 goal conceded every 51.8 minutes |
+| *3* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 1 goal conceded every 51.5 minutes |
+| *4* | S.Sirigu | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 goal conceded every 52.7 minutes |
 | *5* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 goal conceded every 54.1 minutes |
 
 
@@ -256,42 +256,42 @@ To be eligible for the rankings, a player must have played at least 810 minutes 
 
 | | **Player name** | **Team** | **Least goals conceded per minute** |
 | :---: | :--- | :---: | :---: |
-| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal conceded every 111.4 minutes |
-| *2* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal conceded every 100.9 minutes |
+| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal conceded every 119.4 minutes |
+| *2* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal conceded every 100.7 minutes |
 | *2* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal conceded every 99.3 minutes |
-| *3* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 89.3 minutes |
-| *4* | P.Gollini | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal conceded every 87.6 minutes |
+| *3* | P.Gollini | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal conceded every 93.5 minutes |
+| *4* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 86.5 minutes |
 
 
 | | **Player name** | **Team** | **Saves** |
 | :---: | :--- | :---: | :---: |
-| *1* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 119 |
-| *2* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 99 |
-| *3* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 96 |
-| *4* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 95 |
-| *5* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 93 |
+| *1* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 123 |
+| *2* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 103 |
+| *3* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 101 |
+| *4* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 99 |
+| *5* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 97 |
 
 
 | | **Player name** | **Team** | **Saves per minute** |
 | :---: | :--- | :---: | :---: |
-| *1* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 save every 20.6 minutes |
-| *2* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 save every 21.7 minutes |
-| *2* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 save every 24.5 minutes |
-| *3* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 save every 26.0 minutes |
-| *4* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 save every 26.8 minutes |
+| *1* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 save every 20.9 minutes |
+| *2* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 save every 21.8 minutes |
+| *2* | M.Perin | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 save every 23.5 minutes |
+| *3* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 save every 24.8 minutes |
+| *4* | A.Cordaz | <img src="/imgs/clubs logo/crotone.png" width="25"> | 1 save every 25.8 minutes |
 
 
 | | **Player name** | **Team** | **Saves on set pieces + free kicks** |
 | :---: | :--- | :---: | :---: |
-| *1* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 15 |
-| *2* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 14 |
-| *-* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 14 |
-| *4* | G.Donnarumma | <img src="/imgs/clubs logo/milan.png" width="25"> | 13 |
-| *-* | B.Dragowski / M.Silvestri / L.Montipo | <img src="/imgs/clubs logo/fiorentina.png" width="25"> / <img src="/imgs/clubs logo/verona.png" width="25"> / <img src="/imgs/clubs logo/benevento.png" width="25"> | 13 |
+| *1* | L.Sepe | <img src="/imgs/clubs logo/parma.png" width="25"> | 16 |
+| *2* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 15 |
+| *-* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 15 |
+| *-* | L.Montipo | <img src="/imgs/clubs logo/benevento.png" width="25"> | 15 |
+| *-* | M.Silvestri / L.Montipo | <img src="/imgs/clubs logo/verona.png" width="25"> | 15 |
 
 
 ## 5 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
-If you ask someone randomly on the street, the answer will probably be *"Of course, it does matter. Home teams will be playing in a familiar place, they will have the majority of the support from the stands and also don't need to travel to get there. They do have an advantage."* and their answer is not wrong, playing at home gives some psychological and physical advantages to the home team. That's why everyone wants to play the second leg of a knockout tournment at home, that advantage in the most important game can decide which team qualifies and which one drops out from the competition.  
+If you ask someone randomly on the street, the answer will probably be *"Of course, it does matter. Home teams will be playing in a familiar place, they will have the majority of the support from the stands and also don't need to travel to get there. They do have an advantage."* and their answer is not wrong, playing at home gives some psychological and physical advantages to the home team. That's why everyone wants to play the second leg of a knockout tournament at home, that advantage in the most important game can decide which team qualifies and which one drops out from the competition.  
 
 [Looking at the data from England](https://www.skysports.com/football/news/11096/10955089/sky-sports-bust-common-football-myths-home-advantage), home-field advantage is something that exists since 1895, where the home-team would win 64.6% of the time, and even though it has been decreasing since them, it never went below 40%. Home-field advantage it is indeed a thing, but the main question is, does it happens in Italian football (more specifically the Serie A 2019-2020 season)? I will try to answer this question.  
 
@@ -356,132 +356,132 @@ Yes! Our p-value is the same, so the implementation is correct. Now the only thi
 p > &alpha; #0.11833738732512232 > 0.05
 True
 ```  
-As we can see, our p-value is higher than &alpha;, so that means that we cannot reject the null hypothesis. Therefore, **at the 95% confidence level, there is NO statisticaly difference between the average win-rate of the home teams against the away teams for the 2019-2020 season.**  
-Wait!? How can that be possible!? We said at the beggining that home-teams have an advantage against away-teams, why the statistical test says that there is no statisticaly difference between the two?  
-Well, we believe that there is a simple answer to that, amount of data. We analyzed only one season (380 matches), and that number is not enough to notice a difference between home and away win, that 21 more wins is not big enough. If we add together other seasons, that difference will be bigger, and if we redo the Student's t-test maybe we will notice a difference in favour of the home teams (will do that when I upload previous seasons data).  
+As we can see, our p-value is higher than &alpha;, so that means that we cannot reject the null hypothesis. Therefore, **at the 95% confidence level, there is NO statistically difference between the average win-rate of the home teams against the away teams for the 2019-2020 season.**  
+Wait!? How can that be possible!? We said at the beginning that home-teams have an advantage against away-teams, why the statistical test says that there is no statistically difference between the two?  
+Well, we believe that there is a simple answer to that, amount of data. We analyzed only one season (380 matches), and that number is not enough to notice a difference between home and away win, that 21 more wins is not big enough. If we add together other seasons, that difference will be bigger, and if we redo the Student's t-test maybe we will notice a difference in favor of the home teams (will do that when I upload previous seasons data).  
 In conclusion: By analyzing one season only, more specifically 2019-2020 season, we can't say that home teams has more chances to win match than the away team.  
 
 ### 5.1 - Individual teams home-away advantage  
 That is the result by checking all matches, but how about individual teams? We will apply the same statistical analysis to every team to check who performed better at home and who performed better playing away. Before we ignored the matches who ended up on a draw, but here we won't do that, to check for home advantage we will compare the number of home wins against the number of non home wins (away wins + draw). To check for teams who played better away, we do the same, number of away wins against number of non away wins (home wins + draw). Even though, draw a match in soccer is better than losing it, we are giving the same *weight* to both, we are trying to measure if a team wins more when playing at home or away, so even though a drawing is better than losing, it is still a failure to win a match. (code for this analysis is on the italia_statistical_analysis.py)  
 #### <img src="/imgs/clubs logo/atalanta.png" width="40">Atalanta  
 Home wins: 12/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Atalanta playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Atalanta playing at home for the 2019-2020 season.**  
 Away wins: 11/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Atalanta playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Atalanta playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/bologna.png" width="40">Bologna  
 Home wins: 5/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Bologna playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Bologna playing at home for the 2019-2020 season.**  
 Away wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Bologna playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Bologna playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/brescia.png" width="40">Brescia  
 Home wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Brescia playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Brescia playing at home for the 2019-2020 season.**  
 Away wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Brescia playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Brescia playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/cagliari.png" width="40">Cagliari  
 Home wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Cagliari playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Cagliari playing at home for the 2019-2020 season.**  
 Away wins: 4/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Cagliari playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Cagliari playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/fiorentina.png" width="40">Fiorentina  
 Home wins: 5/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Fiorentina playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Fiorentina playing at home for the 2019-2020 season.**  
 Away wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Fiorentina playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Fiorentina playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/genoa.png" width="40">Genoa  
 Home wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Genoa playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Genoa playing at home for the 2019-2020 season.**  
 Away wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Genoa playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Genoa playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/verona.png" width="40">Hellas Verona  
 Home wins: 9/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Hellas Verona playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Hellas Verona playing at home for the 2019-2020 season.**  
 Away wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Hellas Verona playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Hellas Verona playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/inter.png" width="40">Inter  
 Home wins: 11/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Inter playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Inter playing at home for the 2019-2020 season.**  
 Away wins: 13/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Inter playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Inter playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/juventus.png" width="40">Juventus  
 Home wins: 16/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Juventus playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Juventus playing at home for the 2019-2020 season.**  
 Away wins: 10/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Juventus playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Juventus playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/lazio.png" width="40">Lazio  
 Home wins: 14/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lazio playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Lazio playing at home for the 2019-2020 season.**  
 Away wins: 10/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Lazio playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Lazio playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/lecce.png" width="40">Lecce  
 Home wins: 4/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lecce playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Lecce playing at home for the 2019-2020 season.**  
 Away wins: 5/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Lecce playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Lecce playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/milan.png" width="40">Milan  
 Home wins: 9/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Milan playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Milan playing at home for the 2019-2020 season.**  
 Away wins: 10/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Milan playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Milan playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/napoli.png" width="40">Napoli  
 Home wins: 10/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Napoli playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Napoli playing at home for the 2019-2020 season.**  
 Away wins: 8/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Napoli playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Napoli playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/parma.png" width="40">Parma  
 Home wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Parma playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Parma playing at home for the 2019-2020 season.**  
 Away wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Parma playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Parma playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/roma.png" width="40">Roma  
 Home wins: 10/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Roma playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Roma playing at home for the 2019-2020 season.**  
 Away wins: 11/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Roma playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Roma playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/sampdoria.png" width="40">Sampdoria  
 Home wins: 6/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sampdoria playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Sampdoria playing at home for the 2019-2020 season.**  
 Away wins: 6/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sampdoria playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Sampdoria playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/sassuolo.png" width="40">Sassuolo  
 Home wins: 8/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Sassuolo playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Sassuolo playing at home for the 2019-2020 season.**  
 Away wins: 6/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Sassuolo playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Sassuolo playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/spal.png" width="40">SPAL  
 Home wins: 2/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of SPAL playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of SPAL playing at home for the 2019-2020 season.**  
 Away wins: 3/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of SPAL playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of SPAL playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/torino.png" width="40">Torino  
 Home wins: 7/19  
-**At the 95% confidence level, there is NO statisticaly difference between the average win-rate of Torino playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is NO statistically difference between the average win-rate of Torino playing at home for the 2019-2020 season.**  
 Away wins: 4/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Torino playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Torino playing away for the 2019-2020 season.**  
 
 #### <img src="/imgs/clubs logo/udinese.png" width="40">Udinese  
 Home wins: 6/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Udinese playing at home for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Udinese playing at home for the 2019-2020 season.**  
 Away wins: 6/19  
-**At the 95% confidence level, there is statisticaly difference between the average win-rate of Udinese playing away for the 2019-2020 season.**  
+**At the 95% confidence level, there is statistically difference between the average win-rate of Udinese playing away for the 2019-2020 season.**  
 
 We summarize the result in the following table:  
 | | **Home** | **Away** |
@@ -489,12 +489,12 @@ We summarize the result in the following table:
 | **Above average** | <img src="/imgs/clubs logo/juventus.png" width="30"><img src="/imgs/clubs logo/lazio.png" width="30"> | <img src="/imgs/clubs logo/inter.png" width="30"> |
 | **Below average** | <img src="/imgs/clubs logo/bologna.png" width="30"><img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/fiorentina.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> | <img src="/imgs/clubs logo/brescia.png" width="30"><img src="/imgs/clubs logo/cagliari.png" width="30"><img src="/imgs/clubs logo/genoa.png" width="30"><img src="/imgs/clubs logo/verona.png" width="30"><img src="/imgs/clubs logo/lecce.png" width="30"><img src="/imgs/clubs logo/sampdoria.png" width="30"><img src="/imgs/clubs logo/sassuolo.png" width="30"><img src="/imgs/clubs logo/spal.png" width="30"><img src="/imgs/clubs logo/torino.png" width="30"><img src="/imgs/clubs logo/udinese.png" width="30"> |  
 
-As we can see from the table, Juventus and Lazio were the only teams who statisticaly achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
+As we can see from the table, Juventus and Lazio were the only teams who statistically achieved an above average win-rate when playing at home, while Inter was the only club who performed better when playing away. In the bottom row we can check the teams who performed below average at home or away (with a good number of these teams achieving below average on both).
 
 
 ## 6 - Does penalties matter?  
 Penalties, the most controversial topic in the world of soccer. After the weekend round, penalties are normally the most discussed topic in TV sports programs or between a group of friends. "It was clearly a foul" or "The player faked, the other guy didn't even touched him", "The foul was outside the penalty area" or "The foul was inside the penalty area", "That handball was clearly a penalty, it would be a goal if wasn't for it" or "That handball was not on purpose, the arm was against his body, he couldn't do anything" and so many statements like this are made to justify or not the award of a penalty. It's understandable why this is a hot topic, compared to other sports like basketball, volleyball and tennis, soccer is a sport where teams score just a few "points" every match (having no "points" scored at all being also common), so having a type of foul that allow a team to score a point easily is a very big deal.  
-The introduction of VAR (Video assistent referee) helped a lot in this regard, making it easy for referees, now they don't need to decide a game-changing situation like a penalty in the heat of the moment, they can check many times a replay, check from different angles and then reach a decision (a decision that many fans around the world will still argue against).  
+The introduction of VAR (Video assistant referee) helped a lot in this regard, making it easy for referees, now they don't need to decide a game-changing situation like a penalty in the heat of the moment, they can check many times a replay, check from different angles and then reach a decision (a decision that many fans around the world will still argue against).  
 Penalties are important, no doubt about that, it can change the game in just one second. It can bring a team back to life after spending most of the match only defending, it can save the favorite team who spent the whole game "hammering down" the smaller one and didn't got any goal at all. Also have a psychological effect on the players. It's important, but does it affect results in the long run? Dr. Tunde Buraimo [answered this question in the book "Soccernomics"](https://www.goodreads.com/book/show/6617185-soccernomics) by analyzing 1520 Premier League matches, from the 2002/2003 season until the 2005/2006 one. He compared matches where penalties were awarded against the ones where there was no penalty, and checked if there was a difference between the average of home wins, away wins and draws of both groups. In the result, there was an increase of almost 3% of home wins when there was a penalty involved in the match, but at the same time, analysis showed that this difference is not statistically significant. In conclusion, penalties does not change the outcome of matches in the long run.  
 That was the result in the long run, but what about one season? One season is not long enough to be considered a long run, so if we analyze it, we may find some differences in the final positions of the clubs at the final table. And that is what we are going to try to answer here, **how much different the Italia Serie A 2019-2020 table would look like if there was no penalties awarded at all?**  
 
@@ -528,7 +528,7 @@ Second thing, which team received more penalties, and how many went in. The resu
 
 As we can see from the table, some teams are awarded more penalties than the others (we will try to answer why in a future analysis), the top place being occupied by Lazio, with the average of almost 1 penalty every two matches, while Udinese wasn't awarded any penalty at all during the 38 matches of the season.  
 
-Now the last and most important one, if we remove these penalties, how much different the table would look like. To do that we subtract every penalty goal from matches and recalculate the number of points obtained. For example, if a match end it up 1x0 with the goal coming from a penalty kick, we will deduce that goal, becoming now 0x0, and recalculate the points. Team 1 will receive 1 instead of 3, while team 2 will receive 1 instead of 0. We do that for every match with at least one pnalty. We show both the original table (on the left) and the modified one (on the right).  
+Now the last and most important one, if we remove these penalties, how much different the table would look like. To do that we subtract every penalty goal from matches and recalculate the number of points obtained. For example, if a match end it up 1x0 with the goal coming from a penalty kick, we will deduce that goal, becoming now 0x0, and recalculate the points. Team 1 will receive 1 instead of 3, while team 2 will receive 1 instead of 0. We do that for every match with at least one penalty. We show both the original table (on the left) and the modified one (on the right).  
 
 <table>
 <tr><th> Original table </th><th> Modified table </th></tr>
@@ -591,6 +591,6 @@ Going back to the title of this section "does penalties matter?". Well, in that 
 
 #### Notes ####
 All the data was obtained by using a python script on the official match reports available at the "Lega Serie A" official website.  
-The ball possesion data is scouted live through the television, with an estimate error of 5%.  
+The ball possession data is scouted live through the television, with an estimate error of 5%.  
 
 If you spot a mistake, please don't hesitate to open an issue or contact me at evaldo.lborba(at)gmail.com
