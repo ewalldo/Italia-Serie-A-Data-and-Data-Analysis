@@ -23,6 +23,9 @@ Player data available:
 * [2016/2017 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2016-2017)
 * [2015/2016 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2015-2016)
 
+Player stats:  
+* [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Stats/player_statistics_2020_2021.md)
+
 TODO: Match data for previous seasons  
 TODO: More statistical analysis  
 
