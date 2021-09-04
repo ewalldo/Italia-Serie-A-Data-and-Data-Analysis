@@ -464,8 +464,45 @@ To be eligible for the rankings, a player must have played at least 60.0 minutes
 
 
 ## 5 - 2021/2022 Team Stats (Ball Played) (until matchday 2)
-<img src="/imgs/teams stats/ATALANTA (home-away).png" width="25"><img src="/imgs/teams stats/ATALANTA (home).png" width="25"><img src="/imgs/teams stats/ATALANTA (away).png" width="25">  
-<img src="/imgs/teams stats/BOLOGNA (home-away).png" width="25"><img src="/imgs/teams stats/BOLOGNA (home).png" width="25"><img src="/imgs/teams stats/BOLOGNA (away).png" width="25">  
+<img src="/imgs/team stats/ATALANTA (home-away).png"><img src="/imgs/team stats/ATALANTA (home).png"><img src="/imgs/team stats/ATALANTA (away).png">  
+
+<img src="/imgs/team stats/BOLOGNA (home-away).png"><img src="/imgs/team stats/BOLOGNA (home).png"><img src="/imgs/team stats/BOLOGNA (away).png">  
+
+<img src="/imgs/team stats/CAGLIARI (home-away).png"><img src="/imgs/team stats/CAGLIARI (home).png"><img src="/imgs/team stats/CAGLIARI (away).png">  
+
+<img src="/imgs/team stats/EMPOLI (home-away).png"><img src="/imgs/team stats/EMPOLI (home).png"><img src="/imgs/team stats/EMPOLI (away).png">  
+
+<img src="/imgs/team stats/FIORENTINA (home-away).png"><img src="/imgs/team stats/FIORENTINA (home).png"><img src="/imgs/team stats/FIORENTINA (away).png">  
+
+<img src="/imgs/team stats/GENOA (home-away).png"><img src="/imgs/team stats/GENOA (home).png"><img src="/imgs/team stats/GENOA (away).png">  
+
+<img src="/imgs/team stats/HELLAS VERONA (home-away).png"><img src="/imgs/team stats/HELLAS VERONA (home).png"><!---<img src="/imgs/team stats/HELLAS VERONA (away).png">-->  
+
+<img src="/imgs/team stats/INTER (home-away).png"><img src="/imgs/team stats/INTER (home).png"><img src="/imgs/team stats/INTER (away).png">  
+
+<img src="/imgs/team stats/JUVENTUS (home-away).png"><img src="/imgs/team stats/JUVENTUS (home).png"><img src="/imgs/team stats/JUVENTUS (away).png">  
+
+<img src="/imgs/team stats/LAZIO (home-away).png"><img src="/imgs/team stats/LAZIO (home).png"><img src="/imgs/team stats/LAZIO (away).png">  
+
+<img src="/imgs/team stats/MILAN (home-away).png"><img src="/imgs/team stats/MILAN (home).png"><img src="/imgs/team stats/MILAN (away).png">  
+
+<img src="/imgs/team stats/NAPOLI (home-away).png"><img src="/imgs/team stats/NAPOLI (home).png"><img src="/imgs/team stats/NAPOLI (away).png">  
+
+<img src="/imgs/team stats/ROMA (home-away).png"><img src="/imgs/team stats/ROMA (home).png"><img src="/imgs/team stats/ROMA (away).png">  
+
+<img src="/imgs/team stats/SALERNITANA (home-away).png"><img src="/imgs/team stats/SALERNITANA (home).png"><img src="/imgs/team stats/SALERNITANA (away).png">  
+
+<img src="/imgs/team stats/SAMPDORIA (home-away).png"><img src="/imgs/team stats/SAMPDORIA (home).png"><img src="/imgs/team stats/SAMPDORIA (away).png">  
+
+<img src="/imgs/team stats/SASSUOLO (home-away).png"><img src="/imgs/team stats/SASSUOLO (home).png"><img src="/imgs/team stats/SASSUOLO (away).png">  
+
+<img src="/imgs/team stats/SPEZIA (home-away).png"><!---<img src="/imgs/team stats/SPEZIA (home).png">--><img src="/imgs/team stats/SPEZIA (away).png">  
+
+<img src="/imgs/team stats/TORINO (home-away).png"><img src="/imgs/team stats/TORINO (home).png"><img src="/imgs/team stats/TORINO (away).png">  
+
+<img src="/imgs/team stats/UDINESE (home-away).png"><img src="/imgs/team stats/UDINESE (home).png"><!---<img src="/imgs/team stats/UDINESE (away).png">-->  
+
+<img src="/imgs/team stats/VENEZIA (home-away).png"><!---<img src="/imgs/team stats/VENEZIA (home).png">--><img src="/imgs/team stats/VENEZIA (away).png">  
 
 ## 6 - Does home-field advantage matter? Does the home team wins more in Italia's Serie A?  
 If you ask someone randomly on the street, the answer will probably be *"Of course, it does matter. Home teams will be playing in a familiar place, they will have the majority of the support from the stands and also don't need to travel to get there. They do have an advantage."* and their answer is not wrong, playing at home gives some psychological and physical advantages to the home team. That's why everyone wants to play the second leg of a knockout tournament at home, that advantage in the most important game can decide which team qualifies and which one drops out from the competition.  
