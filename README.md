@@ -2,7 +2,7 @@
 Repository to hold the match data for Italia's Serie A and some analysis based on that.  
 
 Match data available:  
-* [2021/2022 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2021-2022_Match_data.csv) (until matchday 12, updated on 08/nov)
+* [2021/2022 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2021-2022_Match_data.csv) (until matchday 13, updated on 23/nov)
 * [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2020-2021_Match_data.csv)
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2019-2020_Match_data.csv)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2018-2019_Match_data.csv)
@@ -15,7 +15,7 @@ Match data available:
 * [2011/2012 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/blob/master/Match%20Report/2011-2012_Match_data.csv)
 
 Player data available:  
-* [2021/2022 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2021-2022) (until matchday 12, updated on 08/nov)
+* [2021/2022 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2021-2022) (until matchday 13, updated on 23/nov)
 * [2020/2021 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2020-2021)
 * [2019/2020 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2019-2020)
 * [2018/2019 season](https://github.com/ewalldo/Italia-Serie-A-Data-and-Data-Analysis/tree/master/Player%20Data/2018-2019)
@@ -29,438 +29,438 @@ Player stats:
 TODO: Match data for previous seasons  
 TODO: More statistical analysis  
 
-## 1 - Attacking efficiency 2021/2022 (until matchday 12)  
+## 1 - Attacking efficiency 2021/2022 (until matchday 13)  
 <img src="/imgs/at_eff_ha.png" width="240"><img src="/imgs/at_eff_h.png" width="240"><img src="/imgs/at_eff_a.png" width="240">  
 
-## 2 - Defensive efficiency 2021/2022 (until matchday 12)  
+## 2 - Defensive efficiency 2021/2022 (until matchday 13)  
 <img src="/imgs/def_eff_ha.png" width="240"><img src="/imgs/def_eff_h.png" width="240"><img src="/imgs/def_eff_a.png" width="240">  
 
-## 3 - Crossing efficiency 2021/2022 (until matchday 12)  
+## 3 - Crossing efficiency 2021/2022 (until matchday 13)  
 <img src="/imgs/crs_eff_ha.png" width="240"><img src="/imgs/crs_eff_h.png" width="240"><img src="/imgs/crs_eff_a.png" width="240">  
 
-## 4 - 2021/2022 Player statistics (until matchday 12)
-To be eligible for the rankings, a player must have played at least 360.0 minutes throughout 4 matches or more this season:
+## 4 - 2021/2022 Player statistics (until matchday 13)
+To be eligible for the rankings, a player must have played at least 390.0 minutes throughout 4 matches or more this season:
 
 ## Non-goalkeeper rankings
 | | **Player name** | **Team** | **Minutes played** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1166min (12 matches) |
-| *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1162min (12 matches) |
-| *3* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1162min (12 matches) |
-| *4* | D.Nikolaou | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1159min (12 matches) |
-| *5* | P.Ceccaroni | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1158min (12 matches) |
-| *6* | R.Marin | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1156min (12 matches) |
-| *7* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1149min (12 matches) |
-| *8* | M.Yoshida | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1147min (12 matches) |
-| *9* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1146min (12 matches) |
-| *10* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1146min (12 matches) |
+| *1* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1261min (13 matches) |
+| *2* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1257min (13 matches) |
+| *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1256min (13 matches) |
+| *4* | P.Ceccaroni | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1253min (13 matches) |
+| *5* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1245min (13 matches) |
+| *6* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1244min (13 matches) |
+| *7* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1243min (13 matches) |
+| *8* | R.Marin | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1240min (13 matches) |
+| *9* | A.Candreva | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1235min (13 matches) |
+| *10* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1225min (13 matches) |
 
 
 | | **Player name** | **Team** | **Minutes played avg per game** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 97.166667min (12 matches) |
-| *2* | L.Bonucci | <img src="/imgs/clubs logo/juventus.png" width="25"> | 96.900000min (10 matches) |
-| *3* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.833333min (12 matches) |
-| *4* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 96.833333min (12 matches) |
+| *1* | L.Bonucci | <img src="/imgs/clubs logo/juventus.png" width="25"> | 97.181818min (11 matches) |
+| *2* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 97.000000min (13 matches) |
+| *3* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 96.692308min (13 matches) |
+| *4* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.615385min (13 matches) |
 | *5* | D.Nikolaou | <img src="/imgs/clubs logo/spezia.png" width="25"> | 96.583333min (12 matches) |
-| *6* | P.Ceccaroni | <img src="/imgs/clubs logo/venezia.png" width="25"> | 96.500000min (12 matches) |
-| *7* | R.Marin | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 96.333333min (12 matches) |
-| *8* | J.Vasquez | <img src="/imgs/clubs logo/genoa.png" width="25"> | 96.000000min (5 matches) |
-| *9* | M.De Roon | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 96.000000min (8 matches) |
-| *10* | M.Skriniar | <img src="/imgs/clubs logo/inter.png" width="25"> | 95.818182min (11 matches) |
+| *6* | P.Ceccaroni | <img src="/imgs/clubs logo/venezia.png" width="25"> | 96.384615min (13 matches) |
+| *7* | M.Skriniar | <img src="/imgs/clubs logo/inter.png" width="25"> | 96.083333min (12 matches) |
+| *8* | M.De Roon | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 95.888889min (9 matches) |
+| *9* | J.Vasquez | <img src="/imgs/clubs logo/genoa.png" width="25"> | 95.833333min (6 matches) |
+| *10* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 95.769231min (13 matches) |
 
 
 | | **Player name** | **Team** | **Total goals** |
 | :---: | :--- | :---: | :---: |
 | *1* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 10 (11 matches) |
-| *2* | G.Simeone | <img src="/imgs/clubs logo/verona.png" width="25"> | 9 (11 matches) |
-| *3* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 8 (12 matches) |
-| *4* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 7 (10 matches) |
-| *5* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 7 (12 matches) |
-| *6* | E.Dzeko | <img src="/imgs/clubs logo/inter.png" width="25"> | 7 (12 matches) |
+| *2* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 10 (13 matches) |
+| *3* | G.Simeone | <img src="/imgs/clubs logo/verona.png" width="25"> | 9 (12 matches) |
+| *4* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 8 (11 matches) |
+| *5* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 8 (13 matches) |
+| *6* | E.Dzeko | <img src="/imgs/clubs logo/inter.png" width="25"> | 7 (13 matches) |
 | *7* | M.Destro | <img src="/imgs/clubs logo/genoa.png" width="25"> | 6 (8 matches) |
-| *8* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 5 (10 matches) |
-| *9* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 5 (10 matches) |
-| *10* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 5 (11 matches) |
+| *8* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 6 (11 matches) |
+| *9* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 6 (12 matches) |
+| *10* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 5 (7 matches) |
 
 
 | | **Player name** | **Team** | **Goal per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Simeone | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 goal every 76.888889 minutes |
-| *2* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 goal every 100.400000 minutes |
-| *3* | M.Destro | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 goal every 111.333333 minutes |
-| *4* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal every 116.857143 minutes |
-| *5* | O.Giroud | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 119.750000 minutes |
-| *6* | E.Dzeko | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 128.000000 minutes |
-| *7* | M.Aramu | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 goal every 140.000000 minutes |
-| *8* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 goal every 143.250000 minutes |
-| *9* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 148.000000 minutes |
-| *10* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal every 164.000000 minutes |
+| *1* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 81.800000 minutes |
+| *2* | G.Simeone | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 goal every 87.666667 minutes |
+| *3* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 goal every 100.400000 minutes |
+| *4* | M.Destro | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 goal every 111.333333 minutes |
+| *5* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal every 112.375000 minutes |
+| *6* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 goal every 124.400000 minutes |
+| *7* | O.Giroud | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal every 129.750000 minutes |
+| *8* | E.Dzeko | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 133.142857 minutes |
+| *9* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal every 136.000000 minutes |
+| *10* | M.Aramu | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 goal every 154.750000 minutes |
 
 
 | | **Player name** | **Team** | **Attempts** |
 | :---: | :--- | :---: | :---: |
 | *1* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 43 (11 matches) |
-| *2* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 42 (11 matches) |
-| *3* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 39 (11 matches) |
-| *4* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 37 (12 matches) |
-| *5* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 35 (10 matches) |
-| *6* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 34 (9 matches) |
-| *7* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 33 (11 matches) |
-| *8* | T.Abraham | <img src="/imgs/clubs logo/roma.png" width="25"> | 33 (12 matches) |
-| *9* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 31 (10 matches) |
-| *10* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 31 (11 matches) |
+| *2* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 43 (12 matches) |
+| *3* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 41 (13 matches) |
+| *4* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 39 (12 matches) |
+| *5* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 37 (11 matches) |
+| *6* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 37 (12 matches) |
+| *7* | R.Leao | <img src="/imgs/clubs logo/milan.png" width="25"> | 37 (13 matches) |
+| *8* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 36 (11 matches) |
+| *9* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 36 (12 matches) |
+| *10* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 35 (11 matches) |
 
 
 | | **Player name** | **Team** | **Attempts per minute played** |
 | :---: | :--- | :---: | :---: |
 | *1* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 attempt every 20.911765 minutes |
-| *2* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 22.025641 minutes |
-| *3* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 attempt every 23.348837 minutes |
-| *4* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 23.428571 minutes |
-| *5* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 attempt every 23.870968 minutes |
-| *6* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 attempt every 25.119047 minutes |
-| *7* | A.Pinamonti | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 attempt every 25.233333 minutes |
-| *8* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 26.387097 minutes |
-| *9* | R.Malinovskyi | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 26.777778 minutes |
-| *10* | D.Verde | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 attempt every 27.173913 minutes |
+| *2* | L.Martinez | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 attempt every 22.054054 minutes |
+| *3* | Z.Ibrahimovic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 attempt every 22.722222 minutes |
+| *4* | C.Immobile | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 attempt every 23.348837 minutes |
+| *5* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 23.675676 minutes |
+| *6* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 attempt every 23.974359 minutes |
+| *7* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 24.972222 minutes |
+| *8* | A.Pinamonti | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 attempt every 25.909091 minutes |
+| *9* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 attempt every 26.720930 minutes |
+| *10* | R.Malinovskyi | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 attempt every 27.000000 minutes |
 
 
 | | **Player name** | **Team** | **Assists** |
 | :---: | :--- | :---: | :---: |
-| *1* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 5 (12 matches) |
-| *2* | G.Caprari | <img src="/imgs/clubs logo/verona.png" width="25"> | 4 (10 matches) |
-| *3* | S.Milinkovic-Savic | <img src="/imgs/clubs logo/lazio.png" width="25"> | 4 (12 matches) |
-| *4* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 4 (12 matches) |
-| *5* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 4 (12 matches) |
-| *6* | C.Ansaldi | <img src="/imgs/clubs logo/torino.png" width="25"> | 3 (7 matches) |
-| *7* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 3 (9 matches) |
+| *1* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 5 (13 matches) |
+| *2* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 5 (13 matches) |
+| *3* | G.Caprari | <img src="/imgs/clubs logo/verona.png" width="25"> | 4 (11 matches) |
+| *4* | S.Milinkovic-Savic | <img src="/imgs/clubs logo/lazio.png" width="25"> | 4 (13 matches) |
+| *5* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 4 (13 matches) |
+| *6* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 3 (9 matches) |
+| *7* | T.Hernandez | <img src="/imgs/clubs logo/milan.png" width="25"> | 3 (10 matches) |
 | *8* | I.Ilic | <img src="/imgs/clubs logo/verona.png" width="25"> | 3 (10 matches) |
-| *9* | M.Barrow | <img src="/imgs/clubs logo/bologna.png" width="25"> | 3 (11 matches) |
-| *10* | Felipe Anderson | <img src="/imgs/clubs logo/lazio.png" width="25"> | 3 (12 matches) |
+| *9* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 3 (11 matches) |
+| *10* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 3 (11 matches) |
 
 
 | | **Player name** | **Team** | **Assists per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | C.Ansaldi | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 assist every 122.666667 minutes |
-| *2* | G.Caprari | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 assist every 172.250000 minutes |
-| *3* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 181.750000 minutes |
-| *4* | E.Ampadu | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 assist every 199.500000 minutes |
-| *5* | L.Stulac | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 assist every 200.000000 minutes |
-| *6* | D.Dumfries | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 208.500000 minutes |
-| *7* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 209.000000 minutes |
-| *8* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 assist every 210.500000 minutes |
-| *9* | M.Veloso | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 assist every 232.000000 minutes |
-| *10* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 assist every 237.000000 minutes |
+| *1* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 assist every 163.200000 minutes |
+| *2* | G.Caprari | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 assist every 196.750000 minutes |
+| *3* | D.Dumfries | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 208.500000 minutes |
+| *4* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 224.200000 minutes |
+| *5* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 assist every 235.500000 minutes |
+| *6* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 assist every 237.000000 minutes |
+| *7* | L.Stulac | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 assist every 238.000000 minutes |
+| *8* | H.Calhanoglu | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 assist every 245.666667 minutes |
+| *9* | I.Ilic | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 assist every 246.666667 minutes |
+| *10* | E.Ampadu | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 assist every 247.000000 minutes |
 
 
 | | **Player name** | **Team** | **Balls played** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1081 (12 matches) |
-| *2* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1041 (12 matches) |
-| *3* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1029 (12 matches) |
-| *4* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1002 (12 matches) |
-| *5* | C.Biraghi | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 944 (12 matches) |
-| *6* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 914 (11 matches) |
-| *7* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 877 (12 matches) |
-| *8* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 858 (12 matches) |
-| *9* | B.Cristante | <img src="/imgs/clubs logo/roma.png" width="25"> | 848 (12 matches) |
-| *10* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 836 (12 matches) |
+| *1* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1176 (13 matches) |
+| *2* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1111 (13 matches) |
+| *3* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1105 (13 matches) |
+| *4* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1097 (13 matches) |
+| *5* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1008 (12 matches) |
+| *6* | C.Biraghi | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1006 (13 matches) |
+| *7* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 950 (13 matches) |
+| *8* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 935 (13 matches) |
+| *9* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 928 (13 matches) |
+| *10* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 918 (12 matches) |
 
 
 | | **Player name** | **Team** | **Balls played per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 ball played every 1.035714 minutes |
-| *2* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.054755 minutes |
-| *3* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.060130 minutes |
-| *4* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 1.068928 minutes |
-| *5* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played every 1.092088 minutes |
-| *6* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.094266 minutes |
-| *7* | C.Biraghi | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 ball played every 1.154661 minutes |
-| *8* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 1.159681 minutes |
-| *9* | Igor | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 ball played every 1.164921 minutes |
-| *10* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played every 1.167291 minutes |
+| *1* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 ball played every 1.049451 minutes |
+| *2* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.058673 minutes |
+| *3* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 1.062500 minutes |
+| *4* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.083258 minutes |
+| *5* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played every 1.091541 minutes |
+| *6* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played every 1.102610 minutes |
+| *7* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played every 1.119675 minutes |
+| *8* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played every 1.144941 minutes |
+| *9* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played every 1.165541 minutes |
+| *10* | L.Martinez Quarta | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 ball played every 1.169600 minutes |
 
 
 | | **Player name** | **Team** | **Balls played forward** |
 | :---: | :--- | :---: | :---: |
-| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 526 (12 matches) |
-| *2* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 373 (12 matches) |
-| *3* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 365 (11 matches) |
-| *4* | B.Cristante | <img src="/imgs/clubs logo/roma.png" width="25"> | 356 (12 matches) |
-| *5* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 351 (12 matches) |
-| *6* | R.Freuler | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 345 (10 matches) |
-| *7* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 343 (12 matches) |
-| *8* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 339 (12 matches) |
-| *9* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 314 (12 matches) |
-| *10* | A.Anguissa | <img src="/imgs/clubs logo/napoli.png" width="25"> | 312 (10 matches) |
+| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 554 (13 matches) |
+| *2* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 401 (12 matches) |
+| *3* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 400 (13 matches) |
+| *4* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 398 (13 matches) |
+| *5* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 385 (13 matches) |
+| *6* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 361 (13 matches) |
+| *7* | B.Cristante | <img src="/imgs/clubs logo/roma.png" width="25"> | 356 (12 matches) |
+| *8* | J.Veretout | <img src="/imgs/clubs logo/roma.png" width="25"> | 348 (13 matches) |
+| *9* | A.Anguissa | <img src="/imgs/clubs logo/napoli.png" width="25"> | 346 (11 matches) |
+| *10* | R.Freuler | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 345 (10 matches) |
 
 
 | | **Player name** | **Team** | **Balls played forward per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 2.087452 minutes |
-| *2* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played forward every 2.483776 minutes |
-| *3* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 ball played forward every 2.574766 minutes |
+| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 2.160650 minutes |
+| *2* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played forward every 2.366834 minutes |
+| *3* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 ball played forward every 2.616438 minutes |
 | *4* | R.Freuler | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 ball played forward every 2.657971 minutes |
-| *5* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played forward every 2.676712 minutes |
-| *6* | A.Anguissa | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 2.977564 minutes |
-| *7* | T.Koopmeiners | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 ball played forward every 3.010929 minutes |
-| *8* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 3.018767 minutes |
-| *9* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 ball played forward every 3.020408 minutes |
-| *10* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 3.035336 minutes |
+| *5* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 ball played forward every 2.670823 minutes |
+| *6* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 ball played forward every 2.705882 minutes |
+| *7* | A.Anguissa | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 2.971098 minutes |
+| *8* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 ball played forward every 3.062500 minutes |
+| *9* | M.Veloso | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 ball played forward every 3.071038 minutes |
+| *10* | B.Cristante | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 ball played forward every 3.092697 minutes |
 
 
 | | **Player name** | **Team** | **Passes** |
 | :---: | :--- | :---: | :---: |
-| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 828 (12 matches) |
-| *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 762 (12 matches) |
-| *3* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 722 (11 matches) |
-| *4* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 709 (12 matches) |
-| *5* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 700 (12 matches) |
-| *6* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 688 (12 matches) |
-| *7* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 660 (12 matches) |
-| *8* | N.Milenkovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 632 (11 matches) |
-| *9* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 623 (11 matches) |
-| *10* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 614 (12 matches) |
+| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 875 (13 matches) |
+| *2* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 836 (13 matches) |
+| *3* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 802 (12 matches) |
+| *4* | G.Di Lorenzo | <img src="/imgs/clubs logo/napoli.png" width="25"> | 767 (13 matches) |
+| *5* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 755 (13 matches) |
+| *6* | G.Mancini | <img src="/imgs/clubs logo/roma.png" width="25"> | 735 (13 matches) |
+| *7* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 732 (13 matches) |
+| *8* | R.Ibanez | <img src="/imgs/clubs logo/roma.png" width="25"> | 688 (13 matches) |
+| *9* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 686 (11 matches) |
+| *10* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 665 (12 matches) |
 
 
 | | **Player name** | **Team** | **Passes per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 pass every 1.326087 minutes |
-| *2* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.353186 minutes |
-| *3* | Igor | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 pass every 1.412698 minutes |
-| *4* | L.Martinez Quarta | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 pass every 1.497951 minutes |
-| *5* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 pass every 1.501362 minutes |
-| *6* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 pass every 1.505814 minutes |
-| *7* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.521311 minutes |
-| *8* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.524934 minutes |
-| *9* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.525362 minutes |
-| *10* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.532787 minutes |
+| *1* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.335411 minutes |
+| *2* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 pass every 1.368000 minutes |
+| *3* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.422680 minutes |
+| *4* | Igor | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 pass every 1.495868 minutes |
+| *5* | L.Martinez Quarta | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 pass every 1.497951 minutes |
+| *6* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 pass every 1.502392 minutes |
+| *7* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.504792 minutes |
+| *8* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 pass every 1.508746 minutes |
+| *9* | I.Bennacer | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 pass every 1.528000 minutes |
+| *10* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 pass every 1.550546 minutes |
 
 
 | | **Player name** | **Team** | **Passes completed percentage** |
 | :---: | :--- | :---: | :---: |
-| *1* | A.Soumaoro | <img src="/imgs/clubs logo/bologna.png" width="25"> | 95.333333 (213 passes) |
-| *2* | Igor | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 95.285714 (315 passes) |
+| *1* | A.Soumaoro | <img src="/imgs/clubs logo/bologna.png" width="25"> | 95.571429 (271 passes) |
+| *2* | Igor | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 94.750000 (363 passes) |
 | *3* | V.Chiriches | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 93.909091 (518 passes) |
-| *4* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 93.090909 (722 passes) |
-| *5* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 92.800000 (305 passes) |
-| *6* | Luiz Felipe | <img src="/imgs/clubs logo/lazio.png" width="25"> | 92.600000 (560 passes) |
+| *4* | M.Lopez | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 93.000000 (802 passes) |
+| *5* | D.Cataldi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 92.909091 (388 passes) |
+| *6* | Luiz Felipe | <img src="/imgs/clubs logo/lazio.png" width="25"> | 92.272727 (616 passes) |
 | *7* | L.Leiva | <img src="/imgs/clubs logo/lazio.png" width="25"> | 91.750000 (380 passes) |
-| *8* | A.Rrahmani | <img src="/imgs/clubs logo/napoli.png" width="25"> | 91.666667 (489 passes) |
-| *9* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 91.333333 (828 passes) |
-| *10* | M.Brozovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 90.916667 (688 passes) |
+| *8* | A.Rrahmani | <img src="/imgs/clubs logo/napoli.png" width="25"> | 91.500000 (533 passes) |
+| *9* | Fabian Ruiz | <img src="/imgs/clubs logo/napoli.png" width="25"> | 91.230769 (875 passes) |
+| *10* | L.Martinez Quarta | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 90.875000 (488 passes) |
 
 
 | | **Player name** | **Team** | **Key passes** |
 | :---: | :--- | :---: | :---: |
-| *1* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 16 (11 matches) |
+| *1* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 20 (12 matches) |
 | *2* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 12 (9 matches) |
-| *3* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 11 (11 matches) |
-| *4* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 11 (11 matches) |
-| *5* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 11 (12 matches) |
-| *6* | Felipe Anderson | <img src="/imgs/clubs logo/lazio.png" width="25"> | 11 (12 matches) |
-| *7* | J.Cuadrado | <img src="/imgs/clubs logo/juventus.png" width="25"> | 9 (10 matches) |
-| *8* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 9 (10 matches) |
-| *9* | B.Cristante | <img src="/imgs/clubs logo/roma.png" width="25"> | 9 (12 matches) |
-| *10* | F.Ribery | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 8 (8 matches) |
+| *3* | Felipe Anderson | <img src="/imgs/clubs logo/lazio.png" width="25"> | 12 (13 matches) |
+| *4* | N.Barella | <img src="/imgs/clubs logo/inter.png" width="25"> | 12 (13 matches) |
+| *5* | R.Soriano | <img src="/imgs/clubs logo/bologna.png" width="25"> | 11 (11 matches) |
+| *6* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 11 (12 matches) |
+| *7* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 11 (12 matches) |
+| *8* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 11 (13 matches) |
+| *9* | J.Cuadrado | <img src="/imgs/clubs logo/juventus.png" width="25"> | 10 (11 matches) |
+| *10* | D.Zapata | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 10 (11 matches) |
 
 
 | | **Player name** | **Team** | **Key passes per minute played** |
 | :---: | :--- | :---: | :---: |
 | *1* | P.Dybala | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 key pass every 59.250000 minutes |
-| *2* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 key pass every 65.937500 minutes |
-| *3* | J.Cuadrado | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 key pass every 75.777778 minutes |
-| *4* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 key pass every 78.090909 minutes |
-| *5* | F.Ribery | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 key pass every 81.000000 minutes |
-| *6* | A.Rebic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 key pass every 89.000000 minutes |
-| *7* | V.Osimhen | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 key pass every 91.111111 minutes |
-| *8* | T.Koopmeiners | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 key pass every 91.833333 minutes |
-| *9* | M.Arnautovic | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 key pass every 92.818182 minutes |
-| *10* | M.Gabbiadini | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 key pass every 94.000000 minutes |
+| *2* | H.Traore | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 key pass every 63.888889 minutes |
+| *3* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 key pass every 65.333333 minutes |
+| *4* | M.Pasalic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 key pass every 74.181818 minutes |
+| *5* | G.Deulofeu | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 key pass every 77.600000 minutes |
+| *6* | J.Cuadrado | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 key pass every 78.200000 minutes |
+| *7* | L.Insigne | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 key pass every 85.000000 minutes |
+| *8* | R.Soriano | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 key pass every 86.545455 minutes |
+| *9* | T.Koopmeiners | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 key pass every 87.571429 minutes |
+| *10* | A.Rebic | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 key pass every 89.000000 minutes |
 
 
 | | **Player name** | **Team** | **Foul suffered** |
 | :---: | :--- | :---: | :---: |
-| *1* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 33 (12 matches) |
-| *2* | F.Bonazzoli | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 27 (11 matches) |
-| *3* | M.Svanberg | <img src="/imgs/clubs logo/bologna.png" width="25"> | 26 (12 matches) |
-| *4* | N.Gonzalez | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 25 (8 matches) |
-| *5* | S.Ricci | <img src="/imgs/clubs logo/empoli.png" width="25"> | 25 (10 matches) |
-| *6* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 25 (12 matches) |
-| *7* | N.Zaniolo | <img src="/imgs/clubs logo/roma.png" width="25"> | 24 (11 matches) |
-| *8* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 24 (12 matches) |
-| *9* | D.Frattesi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 24 (12 matches) |
-| *10* | C.Gondo | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 23 (9 matches) |
+| *1* | D.Vlahovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 36 (13 matches) |
+| *2* | F.Bonazzoli | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 28 (12 matches) |
+| *3* | M.Svanberg | <img src="/imgs/clubs logo/bologna.png" width="25"> | 27 (13 matches) |
+| *4* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 27 (13 matches) |
+| *5* | N.Gonzalez | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 26 (9 matches) |
+| *6* | S.Ricci | <img src="/imgs/clubs logo/empoli.png" width="25"> | 26 (11 matches) |
+| *7* | D.Frattesi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 26 (13 matches) |
+| *8* | Joao Pedro | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 26 (13 matches) |
+| *9* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 25 (12 matches) |
+| *10* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 25 (13 matches) |
 
 
 | | **Player name** | **Team** | **Fouls suffered per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | C.Gondo | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 foul suffered every 20.086957 minutes |
-| *2* | N.Gonzalez | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 foul suffered every 22.040000 minutes |
-| *3* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 foul suffered every 24.375000 minutes |
-| *4* | F.Bonazzoli | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 foul suffered every 24.740741 minutes |
-| *5* | G.Pandev | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 foul suffered every 24.904762 minutes |
-| *6* | R.Orsolini | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 foul suffered every 26.312500 minutes |
-| *7* | M.Aramu | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 foul suffered every 29.473684 minutes |
-| *8* | S.Ricci | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 foul suffered every 31.520000 minutes |
-| *9* | R.Sottil | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 foul suffered every 31.666667 minutes |
-| *10* | N.Zaniolo | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 foul suffered every 31.833333 minutes |
+| *1* | C.Gondo | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 foul suffered every 21.583333 minutes |
+| *2* | N.Gonzalez | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 foul suffered every 22.230769 minutes |
+| *3* | G.Pandev | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 foul suffered every 24.458333 minutes |
+| *4* | F.Bonazzoli | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 foul suffered every 25.285714 minutes |
+| *5* | J.Ilicic | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 foul suffered every 25.880000 minutes |
+| *6* | R.Orsolini | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 foul suffered every 28.823529 minutes |
+| *7* | A.Belotti | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 foul suffered every 30.714286 minutes |
+| *8* | R.Sottil | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 foul suffered every 31.666667 minutes |
+| *9* | N.Zaniolo | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 foul suffered every 31.833333 minutes |
+| *10* | S.Ricci | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 foul suffered every 31.846154 minutes |
 
 
 | | **Player name** | **Team** | **Recoveries** |
 | :---: | :--- | :---: | :---: |
-| *1* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 129 (11 matches) |
-| *2* | O.Colley | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 116 (12 matches) |
-| *3* | Samir | <img src="/imgs/clubs logo/udinese.png" width="25"> | 105 (12 matches) |
-| *4* | J.Palomino | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 103 (10 matches) |
-| *5* | K.Gunter | <img src="/imgs/clubs logo/verona.png" width="25"> | 95 (11 matches) |
-| *6* | N.Milenkovic | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 89 (11 matches) |
-| *7* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 89 (12 matches) |
-| *8* | B.Nuytinck | <img src="/imgs/clubs logo/udinese.png" width="25"> | 89 (12 matches) |
-| *9* | N.Dominguez | <img src="/imgs/clubs logo/bologna.png" width="25"> | 88 (12 matches) |
-| *10* | D.Criscito | <img src="/imgs/clubs logo/genoa.png" width="25"> | 88 (12 matches) |
+| *1* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 136 (12 matches) |
+| *2* | O.Colley | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 120 (13 matches) |
+| *3* | J.Palomino | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 114 (11 matches) |
+| *4* | Samir | <img src="/imgs/clubs logo/udinese.png" width="25"> | 111 (13 matches) |
+| *5* | K.Gunter | <img src="/imgs/clubs logo/verona.png" width="25"> | 102 (12 matches) |
+| *6* | N.Dominguez | <img src="/imgs/clubs logo/bologna.png" width="25"> | 95 (13 matches) |
+| *7* | G.Ferrari | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 95 (13 matches) |
+| *8* | B.Nuytinck | <img src="/imgs/clubs logo/udinese.png" width="25"> | 94 (13 matches) |
+| *9* | M.Thorsby | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 92 (12 matches) |
+| *10* | F.Acerbi | <img src="/imgs/clubs logo/lazio.png" width="25"> | 91 (11 matches) |
 
 
 | | **Player name** | **Team** | **Recoveries per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Magnani | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 7.298246 minutes |
-| *2* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 recovery every 8.015504 minutes |
-| *3* | O.Colley | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 recovery every 8.629310 minutes |
-| *4* | J.Palomino | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 recovery every 8.640777 minutes |
-| *5* | M.Demiral | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 recovery every 8.733333 minutes |
-| *6* | A.Ismajli | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 recovery every 8.769231 minutes |
-| *7* | S.Luperto | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 recovery every 8.910714 minutes |
-| *8* | M.Djuric | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 recovery every 9.305085 minutes |
-| *9* | Samir | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 recovery every 10.295238 minutes |
-| *10* | K.Gunter | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 10.315789 minutes |
+| *1* | G.Magnani | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 7.315789 minutes |
+| *2* | Bremer | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 recovery every 8.301471 minutes |
+| *3* | J.Palomino | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 recovery every 8.640351 minutes |
+| *4* | M.Demiral | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 recovery every 8.733333 minutes |
+| *5* | A.Ismajli | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 recovery every 8.833333 minutes |
+| *6* | O.Colley | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 recovery every 9.141667 minutes |
+| *7* | S.Luperto | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 recovery every 9.629032 minutes |
+| *8* | K.Gunter | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 recovery every 10.568627 minutes |
+| *9* | Samir | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1 recovery every 10.594595 minutes |
+| *10* | D.Godin | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 recovery every 10.725806 minutes |
 
 
 ## Goalkeeper rankings
 | | **Player name** | **Team** | **Minutes played** |
 | :---: | :--- | :---: | :---: |
-| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1169min (12 matches) |
-| *2* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1168min (12 matches) |
-| *3* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 1166min (12 matches) |
-| *4* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1162min (12 matches) |
-| *5* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1162min (12 matches) |
-| *6* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 1155min (12 matches) |
-| *7* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1154min (12 matches) |
-| *8* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1149min (12 matches) |
-| *9* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1148min (12 matches) |
-| *10* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1147min (12 matches) |
+| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1265min (13 matches) |
+| *2* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1263min (13 matches) |
+| *3* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 1261min (13 matches) |
+| *4* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 1257min (13 matches) |
+| *5* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1256min (13 matches) |
+| *6* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 1250min (13 matches) |
+| *7* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1249min (13 matches) |
+| *8* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1247min (13 matches) |
+| *9* | P.Reina | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1247min (13 matches) |
+| *10* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1247min (13 matches) |
 
 
 | | **Player name** | **Team** | **Minutes played avg per game** |
 | :---: | :--- | :---: | :---: |
-| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 97.416667min (12 matches) |
-| *2* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 97.333333min (12 matches) |
-| *3* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 97.166667min (12 matches) |
-| *4* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 97.000000min (5 matches) |
-| *5* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.833333min (12 matches) |
-| *6* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 96.833333min (12 matches) |
-| *7* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 96.666667min (9 matches) |
-| *8* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.400000min (5 matches) |
-| *9* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 96.363636min (11 matches) |
+| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 97.307692min (13 matches) |
+| *2* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 97.153846min (13 matches) |
+| *3* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 97.000000min (10 matches) |
+| *4* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 97.000000min (13 matches) |
+| *5* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 96.692308min (13 matches) |
+| *6* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 96.666667min (6 matches) |
+| *7* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 96.666667min (6 matches) |
+| *8* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 96.615385min (13 matches) |
+| *9* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 96.416667min (12 matches) |
 | *10* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 96.285714min (7 matches) |
 
 
 | | **Player name** | **Team** | **More goals conceded** |
 | :---: | :--- | :---: | :---: |
-| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 26 (12 matches) |
-| *2* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 25 (12 matches) |
-| *3* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 24 (12 matches) |
-| *4* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 23 (12 matches) |
-| *5* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 23 (12 matches) |
-| *6* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 22 (11 matches) |
-| *7* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 19 (7 matches) |
-| *8* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 19 (12 matches) |
-| *9* | P.Reina | <img src="/imgs/clubs logo/lazio.png" width="25"> | 19 (12 matches) |
-| *10* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 18 (11 matches) |
+| *1* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 28 (13 matches) |
+| *2* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 26 (13 matches) |
+| *3* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 25 (13 matches) |
+| *4* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 25 (13 matches) |
+| *5* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 24 (12 matches) |
+| *6* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 24 (13 matches) |
+| *7* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 21 (13 matches) |
+| *8* | P.Reina | <img src="/imgs/clubs logo/lazio.png" width="25"> | 21 (13 matches) |
+| *9* | A.Consigli | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 20 (13 matches) |
+| *10* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 19 (7 matches) |
 
 
 | | **Player name** | **Team** | **More goals conceded per minute played** |
 | :---: | :--- | :---: | :---: |
 | *1* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 goal conceded every 35.473684 minutes |
-| *2* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 goal conceded every 44.961538 minutes |
-| *3* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 goal conceded every 45.880000 minutes |
-| *4* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 goal conceded every 48.181818 minutes |
-| *5* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 goal conceded every 48.666667 minutes |
-| *6* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 goal conceded every 49.956522 minutes |
-| *7* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 goal conceded every 50.173913 minutes |
-| *8* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 1 goal conceded every 58.833333 minutes |
-| *9* | N.Maenpaa | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 goal conceded every 59.333333 minutes |
-| *10* | P.Reina | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 goal conceded every 60.368421 minutes |
+| *2* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 goal conceded every 45.178571 minutes |
+| *3* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 goal conceded every 48.083333 minutes |
+| *4* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 goal conceded every 48.333333 minutes |
+| *5* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 1 goal conceded every 48.576923 minutes |
+| *6* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 goal conceded every 49.720000 minutes |
+| *7* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 goal conceded every 49.880000 minutes |
+| *8* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 goal conceded every 52.041667 minutes |
+| *9* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 58.000000 minutes |
+| *10* | N.Maenpaa | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 goal conceded every 59.333333 minutes |
 
 
 | | **Player name** | **Team** | **Least goals conceded** |
 | :---: | :--- | :---: | :---: |
-| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 3 (10 matches) |
-| *2* | M.Maignan | <img src="/imgs/clubs logo/milan.png" width="25"> | 5 (7 matches) |
-| *3* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 6 (5 matches) |
-| *4* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 6 (5 matches) |
-| *5* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 7 (5 matches) |
-| *6* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 7 (5 matches) |
-| *7* | P.Terracciano | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 8 (8 matches) |
-| *8* | N.Maenpaa | <img src="/imgs/clubs logo/venezia.png" width="25"> | 9 (6 matches) |
-| *9* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 11 (9 matches) |
-| *10* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 12 (12 matches) |
+| *1* | M.Maignan | <img src="/imgs/clubs logo/milan.png" width="25"> | 5 (7 matches) |
+| *2* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 6 (5 matches) |
+| *3* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 6 (11 matches) |
+| *4* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 7 (6 matches) |
+| *5* | N.Maenpaa | <img src="/imgs/clubs logo/venezia.png" width="25"> | 9 (6 matches) |
+| *6* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 10 (6 matches) |
+| *7* | P.Terracciano | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 11 (9 matches) |
+| *8* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 11 (10 matches) |
+| *9* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 12 (6 matches) |
+| *10* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 13 (13 matches) |
 
 
 | | **Player name** | **Team** | **Least goals conceded per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal conceded every 317.666667 minutes |
+| *1* | D.Ospina | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 goal conceded every 175.333333 minutes |
 | *2* | M.Maignan | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 134.600000 minutes |
-| *3* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 goal conceded every 96.250000 minutes |
-| *4* | P.Terracciano | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 goal conceded every 94.125000 minutes |
-| *5* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal conceded every 88.307692 minutes |
-| *6* | J.Musso | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal conceded every 81.461538 minutes |
-| *7* | C.Tatarusanu | <img src="/imgs/clubs logo/milan.png" width="25"> | 1 goal conceded every 80.333333 minutes |
-| *8* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal conceded every 79.090909 minutes |
-| *9* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 goal conceded every 77.733333 minutes |
-| *10* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 goal conceded every 69.285714 minutes |
+| *3* | V.Milinkovic-Savic | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 goal conceded every 96.153846 minutes |
+| *4* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 goal conceded every 88.181818 minutes |
+| *5* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 goal conceded every 84.066667 minutes |
+| *6* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 goal conceded every 83.133333 minutes |
+| *7* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 goal conceded every 82.142857 minutes |
+| *8* | P.Terracciano | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 goal conceded every 77.363636 minutes |
+| *9* | J.Musso | <img src="/imgs/clubs logo/atalanta.png" width="25"> | 1 goal conceded every 76.933333 minutes |
+| *10* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 goal conceded every 68.000000 minutes |
 
 
 | | **Player name** | **Team** | **Saves** |
 | :---: | :--- | :---: | :---: |
-| *1* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 47 (12 matches) |
-| *2* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 42 (12 matches) |
-| *3* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 40 (12 matches) |
-| *4* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 40 (12 matches) |
-| *5* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 35 (12 matches) |
-| *6* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 35 (12 matches) |
-| *7* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 34 (11 matches) |
-| *8* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 34 (12 matches) |
-| *9* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 33 (12 matches) |
-| *10* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 28 (11 matches) |
+| *1* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 50 (13 matches) |
+| *2* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 45 (13 matches) |
+| *3* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 44 (13 matches) |
+| *4* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 41 (13 matches) |
+| *5* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 40 (13 matches) |
+| *6* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 37 (13 matches) |
+| *7* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 36 (12 matches) |
+| *8* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 35 (13 matches) |
+| *9* | M.Silvestri | <img src="/imgs/clubs logo/udinese.png" width="25"> | 34 (13 matches) |
+| *10* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 31 (12 matches) |
 
 
 | | **Player name** | **Team** | **Saves per minute played** |
 | :---: | :--- | :---: | :---: |
-| *1* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 save every 20.869565 minutes |
-| *2* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 save every 24.446809 minutes |
-| *3* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 save every 27.309524 minutes |
-| *4* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 save every 28.083333 minutes |
-| *5* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 save every 28.700000 minutes |
-| *6* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 save every 29.225000 minutes |
-| *7* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 save every 31.176471 minutes |
-| *8* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 save every 31.384615 minutes |
-| *9* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 save every 32.333333 minutes |
-| *10* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 save every 32.971429 minutes |
+| *1* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 1 save every 19.827586 minutes |
+| *2* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 1 save every 24.940000 minutes |
+| *3* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 save every 28.083333 minutes |
+| *4* | V.Belec | <img src="/imgs/clubs logo/salernitana.png" width="25"> | 1 save every 28.111111 minutes |
+| *5* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 1 save every 28.250000 minutes |
+| *6* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 save every 30.414634 minutes |
+| *7* | I.Provedel | <img src="/imgs/clubs logo/spezia.png" width="25"> | 1 save every 30.526316 minutes |
+| *8* | L.Skorupski | <img src="/imgs/clubs logo/bologna.png" width="25"> | 1 save every 31.225000 minutes |
+| *9* | B.Dragowski | <img src="/imgs/clubs logo/fiorentina.png" width="25"> | 1 save every 31.384615 minutes |
+| *10* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 1 save every 32.055556 minutes |
 
 
 | | **Player name** | **Team** | **Saves on set pieces + free kicks** |
 | :---: | :--- | :---: | :---: |
-| *1* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 9 (12 matches) |
-| *2* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 8 (12 matches) |
-| *3* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 7 (7 matches) |
-| *4* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 7 (12 matches) |
-| *5* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 7 (12 matches) |
-| *6* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 6 (11 matches) |
-| *7* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 5 (5 matches) |
-| *8* | M.Maignan | <img src="/imgs/clubs logo/milan.png" width="25"> | 5 (7 matches) |
-| *9* | A.Cragno | <img src="/imgs/clubs logo/cagliari.png" width="25"> | 5 (11 matches) |
-| *10* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 5 (12 matches) |
+| *1* | S.Sirigu | <img src="/imgs/clubs logo/genoa.png" width="25"> | 9 (13 matches) |
+| *2* | S.Handanovic | <img src="/imgs/clubs logo/inter.png" width="25"> | 8 (13 matches) |
+| *3* | S.Romero | <img src="/imgs/clubs logo/venezia.png" width="25"> | 7 (6 matches) |
+| *4* | J.Zoet | <img src="/imgs/clubs logo/spezia.png" width="25"> | 7 (7 matches) |
+| *5* | G.Vicario | <img src="/imgs/clubs logo/empoli.png" width="25"> | 7 (13 matches) |
+| *6* | E.Audero | <img src="/imgs/clubs logo/sampdoria.png" width="25"> | 7 (13 matches) |
+| *7* | Rui Patricio | <img src="/imgs/clubs logo/roma.png" width="25"> | 7 (13 matches) |
+| *8* | L.Montipo' | <img src="/imgs/clubs logo/verona.png" width="25"> | 6 (12 matches) |
+| *9* | M.Maignan | <img src="/imgs/clubs logo/milan.png" width="25"> | 5 (7 matches) |
+| *10* | W.Szczesny | <img src="/imgs/clubs logo/juventus.png" width="25"> | 5 (10 matches) |
 
 
 ## 5 - 2021/2022 Team Stats (Ball Played) (until matchday 12)
