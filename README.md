@@ -38,7 +38,7 @@ TODO: More statistical analysis
 ## 3 - Crossing efficiency 2021/2022  
 <img src="/imgs/crs_eff_ha.png" width="240"><img src="/imgs/crs_eff_h.png" width="240"><img src="/imgs/crs_eff_a.png" width="240">  
 
-## 4 - 2021/2022 Player statistics (until matchday 38)
+## 4 - 2021/2022 Player statistics  
 To be eligible for the rankings, a player must have played at least 1140.0 minutes throughout 12 matches or more this season:
 
 ## Non-goalkeeper rankings
@@ -65,10 +65,10 @@ To be eligible for the rankings, a player must have played at least 1140.0 minut
 | *4* | J.Kiwior | <img src="/imgs/clubs logo/spezia.png" width="25"> | 96.363636min (22 matches) |
 | *5* | M.Skriniar | <img src="/imgs/clubs logo/inter.png" width="25"> | 95.971429min (35 matches) |
 | *6* | P.Ceccaroni | <img src="/imgs/clubs logo/venezia.png" width="25"> | 95.628571min (35 matches) |
-| *7* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 95.457143min (35 matches) |
-| *8* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 95.370370min (27 matches) |
-| *9* | A.Rrahmani | <img src="/imgs/clubs logo/napoli.png" width="25"> | 95.272727min (33 matches) |
-| *10* | Mario Rui | <img src="/imgs/clubs logo/napoli.png" width="25"> | 94.088235min (34 matches) |
+| *7* | P.Mari' | <img src="/imgs/clubs logo/udinese.png" width="25"> | 95.466667min (15 matches) |
+| *8* | R.Becao | <img src="/imgs/clubs logo/udinese.png" width="25"> | 95.457143min (35 matches) |
+| *9* | K.Koulibaly | <img src="/imgs/clubs logo/napoli.png" width="25"> | 95.370370min (27 matches) |
+| *10* | A.Rrahmani | <img src="/imgs/clubs logo/napoli.png" width="25"> | 95.272727min (33 matches) |
 
 
 | | **Player name** | **Team** | **Total goals** |
@@ -274,11 +274,11 @@ To be eligible for the rankings, a player must have played at least 1140.0 minut
 | *3* | H.Calhanoglu | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 key pass every 42.327869 minutes |
 | *4* | F.Dimarco | <img src="/imgs/clubs logo/inter.png" width="25"> | 1 key pass every 45.352941 minutes |
 | *5* | J.Brekalo | <img src="/imgs/clubs logo/torino.png" width="25"> | 1 key pass every 47.627451 minutes |
-| *6* | D.Mertens | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 key pass every 50.000000 minutes |
-| *7* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 key pass every 50.965517 minutes |
-| *8* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 key pass every 53.956522 minutes |
-| *9* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 key pass every 54.844444 minutes |
-| *10* | J.Cuadrado | <img src="/imgs/clubs logo/juventus.png" width="25"> | 1 key pass every 56.510638 minutes |
+| *6* | S.El Shaarawy | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 key pass every 49.125000 minutes |
+| *7* | D.Mertens | <img src="/imgs/clubs logo/napoli.png" width="25"> | 1 key pass every 50.000000 minutes |
+| *8* | D.Berardi | <img src="/imgs/clubs logo/sassuolo.png" width="25"> | 1 key pass every 50.965517 minutes |
+| *9* | Luis Alberto | <img src="/imgs/clubs logo/lazio.png" width="25"> | 1 key pass every 53.956522 minutes |
+| *10* | L.Pellegrini | <img src="/imgs/clubs logo/roma.png" width="25"> | 1 key pass every 54.844444 minutes |
 
 
 | | **Player name** | **Team** | **Foul suffered** |
